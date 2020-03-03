@@ -22,16 +22,17 @@ bio: I am a postdoctoral researcher working in biomedical image analysis. My res
 
 interests:
 - Biomedical Image Analysis
-- Machine Learning and Artificial Intelligence
+- Artificial Intelligence and Machine Learning 
 - Medical Imaging (Ultrasound, Histopathology, Radiology)
-- Big Data Science and Heterogeneous Data Analysis
+- Big Data Science
+- Heterogeneous Data Analysis
 - Image and Signal Processing
 - Information Retrieval
   
 education:
   courses:
-  - course: Ph.D.(Dr.-Ing.), Computer Vision
-    institution: Technical University of Berlin
+  - course: Ph.D.(Dr.-Ing.) in Computer Vision
+    institution: Technische Universität Berlin
     year: 2017
   - course: M.Tech. in Instrumentation and Signal Processing 
     institution: Indian Institute of Technology Roorkee
@@ -44,7 +45,10 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
+social:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sTHDnuEAAAAJ&hl=en
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "harshiita.s@gmail.com"
