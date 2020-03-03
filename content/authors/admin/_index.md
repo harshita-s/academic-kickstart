@@ -49,7 +49,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sTHDnuEAAAAJ&hl=en
-
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sharmaharshita1/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ichbinharshita
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "harshiita.s@gmail.com"
 
