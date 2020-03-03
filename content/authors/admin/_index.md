@@ -44,48 +44,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sTHDnuEAAAAJ&hl=en
-  
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/sharmaharshita1/
-  
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Harshita_Sharma
-  
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ichbinharshita
-  
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0003-4683-2606
-  
- -icon: academia
-  icon_pack: ai
-  link: https://oxford.academia.edu/HarshitaSharma
-  
- -icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/1363869/harshita-sharma/
-  
- -icon: dblp
-  icon_pack: ai
-  link: https://dblp.uni-trier.de/pers/hd/s/Sharma:Harshita
-  
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:harshiita.s@gmail.com".
-    
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-# icon_pack: ai
-# link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "harshiita.s@gmail.com"
