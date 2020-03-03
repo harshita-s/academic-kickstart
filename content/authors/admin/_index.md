@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Harshita Sharma
 
 # Username (this should match the folder name)
 authors:
@@ -10,19 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Oxford
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a postdoctoral researcher working in biomedical image analysis. My research interests include artificial intelligence, big data analytics, computer-aided diagnosis, image and signal processing for healthcare and medicine.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
 - Information Retrieval
 
 education:
