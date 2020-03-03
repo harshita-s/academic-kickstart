@@ -61,13 +61,13 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-4683-2606
--icon: academia
+- icon: academia
   icon_pack: ai
   link: https://oxford.academia.edu/HarshitaSharma
--icon: publons
+- icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1363869/harshita-sharma/
--icon: dblp
+- icon: dblp
   icon_pack: ai
   link: https://dblp.uni-trier.de/pers/hd/s/Sharma:Harshita
 - icon: envelope
