@@ -48,25 +48,42 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sTHDnuEAAAAJ&hl=en
+  
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sharmaharshita1/
+  
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Harshita_Sharma
-- icon: orcid
-  icon_pack: ai
-  link: http://orcid.org/0000-0003-4683-2606
- -icon: academia
- -icon: publons
- -icon: pubmed
- -icon: dblp
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:harshiita.s@gmail.com".
+  
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ichbinharshita
+  
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0003-4683-2606
+  
+ -icon: academia
+  icon_pack: ai
+  link:
+  
+ -icon: publons
+  icon_pack: ai
+  link:
+  
+ -icon: pubmed
+  icon_pack: ai
+  link:
+ -icon: dblp
+  icon_pack: ai
+  link:
+  
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:harshiita.s@gmail.com".
+  
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
