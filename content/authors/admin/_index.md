@@ -61,6 +61,20 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-4683-2606
+-icon: academia
+  icon_pack: ai
+  link: https://oxford.academia.edu/HarshitaSharma
+-icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1363869/harshita-sharma/
+-icon: dblp
+  icon_pack: ai
+  link: https://dblp.uni-trier.de/pers/hd/s/Sharma:Harshita
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:harshiita.s@gmail.com".
+  
+  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "harshiita.s@gmail.com"
 
