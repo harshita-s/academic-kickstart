@@ -18,12 +18,16 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoctoral researcher working in biomedical image analysis. My research interests include artificial intelligence, big data analytics, computer-aided diagnosis, image and signal processing for healthcare and medicine.
+bio: I am a postdoctoral researcher working in biomedical image analysis. My research interests include biomedical image analysis, artificial intelligence and machine learning, big data science, image and signal processing applied to medicine and healthcare.
 
 interests:
-- Artificial Intelligence
+- Biomedical Image Analysis
+- Machine Learning and Artificial Intelligence
+- Medical Imaging (Ultrasound, Histopathology, Radiology)
+- Big Data Science and Heterogeneous Data Analysis
+- Image and Signal Processing
 - Information Retrieval
-
+  
 education:
   courses:
   - course: PhD in Artificial Intelligence
@@ -69,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Harshita Sharma is a Postdoctoral Researcher at the Biomedical Image Analysis Group, University of Oxford. Her research interests include artificial intelligence and machine learning, big data science, image and signal processing applied to medicine and healthcare. Harshita's current research focuses on image, video and sensory data analysis in medical ultrasound using computer vision and deep learning methods. During her Ph.D., she analysed histopathological whole slide images of gastric carcinoma in digital pathology for applications such as automatic cancer grade classification, necrosis detection and cell nuclei classification. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
