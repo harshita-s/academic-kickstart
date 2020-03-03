@@ -81,13 +81,13 @@ social:
   link: files/cv.pdf
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "harshiita.s@gmail.com"
+# email: "harshiita.s@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 Dr Harshita Sharma is a Postdoctoral Researcher at the Biomedical Image Analysis Group, University of Oxford. Her research interests include artificial intelligence and machine learning, big data science, image and signal analysis applied to medicine and healthcare. Currently, Harshita is working on the interdisciplinary ERC Project PULSE (Perception Ultrasound by Learning Sonographic Experience). The aim of the project is to develop methods to model sonographic experience in order to make ultrasound an easier technology for non-specialists. Harshita's current research focuses on image, video and sensory data analysis in medical ultrasound using machine learning, NLP, big data science, and information fusion methods.
