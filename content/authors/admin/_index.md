@@ -63,7 +63,7 @@ social:
   
 - icon: orcid
   icon_pack: ai
-  link: http://orcid.org/0000-0003-4683-2606
+  link: https://orcid.org/0000-0003-4683-2606
   
  -icon: academia
   icon_pack: ai
