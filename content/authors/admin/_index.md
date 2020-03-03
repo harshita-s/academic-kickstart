@@ -67,30 +67,25 @@ social:
   
  -icon: academia
   icon_pack: ai
-  link:
+  link: https://oxford.academia.edu/HarshitaSharma
   
  -icon: publons
   icon_pack: ai
-  link:
+  link: https://publons.com/researcher/1363869/harshita-sharma/
   
- -icon: pubmed
-  icon_pack: ai
-  link:
  -icon: dblp
   icon_pack: ai
-  link:
+  link: https://dblp.uni-trier.de/pers/hd/s/Sharma:Harshita
   
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:harshiita.s@gmail.com".
-  
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-
+# - icon: cv
+# icon_pack: ai
+# link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "harshiita.s@gmail.com"
