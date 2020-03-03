@@ -55,6 +55,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ichbinharshita
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Harshita_Sharma
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4683-2606
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "harshiita.s@gmail.com"
 
