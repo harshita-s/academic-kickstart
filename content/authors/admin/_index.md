@@ -32,13 +32,13 @@ interests:
 education:
   courses:
   - course: Ph.D.(Dr.-Ing.) in Computer Vision
-    institution: Technische Universität Berlin(https://www.tu-berlin.de/menue/home/)
+    institution: Technische Universität Berlin
     year: 2017
   - course: M.Tech. in Instrumentation and Signal Processing 
-    institution: Indian Institute of Technology Roorkee(https://www.iitr.ac.in/)
+    institution: Indian Institute of Technology Roorkee
     year: 2012
   - course: B.Tech. in Electronics and Communication Engineering
-    institution: Indira Gandhi Delhi Technical University for Women(https://www.igdtuw.ac.in/)
+    institution: Indira Gandhi Delhi Technical University for Women
     year: 2010
 
 # Social/Academic Networking
@@ -89,9 +89,8 @@ social:
 # - Researchers
 # - Visitors
 ---
+Dr Harshita Sharma is a Postdoctoral Researcher in the [Department of Engineering Science](https://www.eng.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), and a member of the [Biomedical Image Analysis (BioMedIA) group], advised by [Prof. Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble). She is working on the interdisciplinary [ERC Project PULSE](https://www.eng.ox.ac.uk/pulse/)(Perception Ultrasound by Learning Sonographic Experience). The aim of the project is to develop methods to model sonographic experience in order to make ultrasound an easier technology for non-specialists. Harshita's current research focuses on image, video and sensory data analysis in medical ultrasound using machine learning, NLP, big data science, and information fusion methods. Her research interests include artificial intelligence and machine learning, big data science, image and signal analysis applied to medicine and healthcare.  
 
-Dr Harshita Sharma is a Postdoctoral Researcher at the Biomedical Image Analysis Group, University of Oxford. Her research interests include artificial intelligence and machine learning, big data science, image and signal analysis applied to medicine and healthcare. Currently, Harshita is working on the interdisciplinary ERC Project PULSE (Perception Ultrasound by Learning Sonographic Experience). The aim of the project is to develop methods to model sonographic experience in order to make ultrasound an easier technology for non-specialists. Harshita's current research focuses on image, video and sensory data analysis in medical ultrasound using machine learning, NLP, big data science, and information fusion methods.
+In 2017, Harshita completed her Ph.D. degree (Dr.-Ing.) in computer vision from [Technische Universität Berlin] (https://www.tu-berlin.de/menue/home/) after being awarded a full-time DAAD Ph.D. Scholarship supervised by Prof. Olaf Hellwich. She collaborated with Charite and KIel. She analysed histopathological whole slide images of gastric carcinoma for applications such as automatic cancer grade classification, necrosis detection and cell nuclei classification. 
 
-In 2017, Harshita completed her Ph.D. degree (Dr.-Ing.) in computer vision from Technical University Berlin after being awarded a full-time DAAD Ph.D. Scholarship. During her Ph.D., she analysed histopathological whole slide images of gastric carcinoma for applications such as automatic cancer grade classification, necrosis detection and cell nuclei classification. In 2012-13, she was a lecturer in electronics and communication engineering at Jaypee Institute of Information Technology in India.
-
-In 2012, Harshita obtained her Masters degree (M.Tech.) in electrical engineering from Indian Institute of Technology Roorkee, and in 2010, a Bachelors degree (B.Tech.) in electronics and communication engineering from Indira Gandhi Delhi Technical University of Women in India. In 2011-12, she was an exchange research scholar at Technical University Berlin under the DAAD-IIT Master Sandwich Programme. Here, she explored histopathological breast cancer biopsies for content-based image retrival.
+In 2012-13, she was a lecturer in electronics and communication engineering at Jaypee Institute of Information Technology in India. In 2012, Harshita obtained her Masters degree (M.Tech.) in electrical engineering from the [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/), and in 2010, a Bachelors degree (B.Tech.) in electronics and communication engineering from the [Indira Gandhi Delhi Technical University of Women](https://www.igdtuw.ac.in/). In 2011-12, she was an exchange research scholar at Technical University Berlin under the DAAD-IIT Master Sandwich Programme. Here, she explored histopathological breast cancer biopsies for content-based image retrival. She was part of the VSS project..
