@@ -3,7 +3,7 @@ title : "Evaluation of Gaze Tracking Calibration for Longitudinal Biomedical Ima
 date : 2020-01-01
 authors:
 - Pierre Chatelain
-- Harshita **Sharma**"
+- Harshita **Sharma**
 - Lior Drukker
 - Aris T. Papageorghiou 
 - J. Alison Noble
@@ -24,7 +24,7 @@ links:
   icon_pack: ai
   icon: doi
 - name: ORA
-  url: https://ora.ox.ac.uk/objects/uuid:a27fe42b-3a94-4b0f-bc7d-2173c0348b6f
+  url: https://ora.ox.ac.uk/objects/uuid:c750b5ce-03a0-4e7b-bdd3-140e65c4bcad
   icon_pack: ai
   icon: open-access
 - name: IEEE
