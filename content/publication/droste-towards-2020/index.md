@@ -3,7 +3,7 @@ title: "Towards Capturing Sonographic Experience: Cognition-Inspired Ultrasound 
 date: 2019-11-01
 authors:
 - "Richard Droste"
-- "Yifan Cai", 
+- "Yifan Cai"
 - "Harshita **Sharma**"
 - "Pierre Chatelain"
 - "Aris T. Papageorghiou"
