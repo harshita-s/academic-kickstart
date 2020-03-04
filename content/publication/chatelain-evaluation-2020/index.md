@@ -8,5 +8,8 @@ featured = false
 publication = "*IEEE Transactions on Cybernetics*"
 tags = ["Accuracy", "biomedical imaging", "Biomedical imaging", "Biomedical monitoring", "biomedical ultrasonics", "calibration", "Calibration", "cart-based ultrasound scanner", "data analysis", "eye", "eye tracking calibration", "gaze tracking", "Gaze tracking", "gaze tracking calibration", "human-machine interactions", "image-based medical exams", "innovative computer-aided imaging systems", "long-term gaze tracking studies", "longitudinal biomedical imaging studies", "medical image processing", "Monitoring", "perceptive process", "remote eye tracker", "testing", "Ultrasonic imaging", "ultrasonography", "ultrasonography setting", "visual perception", "Visualization"]
 doi = "10.1109/TCYB.2018.2866274"
+url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8454741"
+url_custom = [{name = "IEEE", url = "https://ieeexplore.ieee.org/abstract/document/8454741"}]
+url_bibtex = [{name = "BibTex", url = "https://ieeexplore.ieee.org/abstract/document/8454741"}]
 +++
 
