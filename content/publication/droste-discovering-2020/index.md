@@ -15,7 +15,7 @@ abstract: "Anatomical landmarks are a crucial prerequisite for many medical imag
 
 featured: false
 
-publication: "*arXiv:2001.08188*"
+publication: "*IEEE International Symposium on Biomedical Imaging (ISBI) 2020*"
 
 tags:
 - Computer Science 
