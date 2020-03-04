@@ -64,26 +64,23 @@ date_format = "Jan 2006"
   * Secured Grade-A (Excellent) at DRDO.
   * Signal processing research on the project called VANI: Automatic Speaker Recognition System. 
   """
-
-subtitle = "Teaching"
+  
   [[experience]]
   title = "Professor"
   company = "University X"
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2008-01-01"
+  date_end = "2008-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
  
-
-subtitle = "Service"
 [[experience]]
   title = "Professor"
-  company = "University X"
+  company = "University Y"
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2007-01-01"
+  date_end = "2007-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
  
 +++
