@@ -1,8 +1,8 @@
 ---
 title: "Spatio-Temporal Partitioning And Description Of Full-Length Routine Fetal Anomaly Ultrasound Scans"
-date: 2019-12-01
+date: 2019-12-15
 authors: 
-- "Harshita Sharma"
+- "Harshita **Sharma**"
 - "Richard Droste"
 - "Pierre Chatelain"
 - "Lior Drukker"
@@ -53,5 +53,22 @@ tags:
 - "video signal processing"
 - "workflow statistics"
 
+links:
+- name: DOI
+  url: https://doi.org/10.1109/ISBI.2019.8759149
+  icon_pack: ai
+  icon: doi
+- name: ORA
+  url: https://ora.ox.ac.uk/objects/uuid:3b8ec67e-c443-40ac-a2ef-e8da14fb5f62
+  icon_pack: ai
+  icon: open-access
+- name: IEEE
+  url: https://ieeexplore.ieee.org/abstract/document/8759149
+  icon_pack: ai
+  icon: ieee
+- name: BibTeX
+  icon_pack: fas
+  icon: quote-right
+  url: publication/sharma-spatio-temporal-2019/#sharma-spatio-temporal-2019.bib
 ---
 
