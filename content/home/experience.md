@@ -25,7 +25,9 @@ date_format = "Jan 2006"
   date_start = "2017-05-02"
   date_end = ""
   description = """
- 
+  * Analyzing multimodal big data consisting of videos, images, and other sensory data to develop novel methods for medical ultrasound. 
+  * Performing independent research and collaboration with project team members, including Nuffield Department of Women’s & Reproductive Health at the John Radcliffe Hospital. 
+ """
  [[experience]]
   title = "PhD Research Scholar"
   company = "TU Berlin (DAAD Full-Time Scholarship)"
@@ -34,7 +36,9 @@ date_format = "Jan 2006"
   date_start = "2013-10-01"
   date_end = "2013-05-27"
   description = """
-  
+  * Ph.D. thesis is titled **Medical Image Analysis of Gastric Cancer in Digital Histopathology: Methods, Applications and Challenges**. 
+  * The research was performed between TU Berlin, Charité University Hospital Berlin and UKSH Kiel, Germany. 
+  """
    [[experience]]
   title = "DAAD-IIT Masters Exchange Scholar"
   company = "TU Berlin (DAAD-IIT MSP Scholarship)"
@@ -43,6 +47,21 @@ date_format = "Jan 2006"
   date_start = "2011-09-01"
   date_end = "2012-05-31"
   description = """
+  * Master dissertation was titled **Determining Similarity in Histological Images using Graph-Theoretic Description and Matching Methods for Content-Based Image Retrieval in Medical Diagnostics**.
+  * Was a part of the collaborative research project **Virtual Specimen Scout**.
+"""
+
+[[experience]]
+  title = "Research Trainee"
+  company = "Defence Research and Development Organisation"
+  company_url = "http://www.drdo.gov.in"
+  location = "Delhi, India"
+  date_start = "2009-06-31"
+  date_end = "2009-05-01"
+  description = """
+  * Secured Grade-A (Excellent) at DRDO.
+  * Signal processing research on the project called VANI: Automatic Speaker Recognition System. 
+"""
 
 subtitle = "Teaching"
   [[experience]]
