@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = ""
+subtitle = "Research"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,21 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Postdoctoral Researcher"
+  company = "University of Oxford"
+  company_url = "http://www.ox.ac.uk"
+  location = "Oxford, United Kingdom"
+  date_start = "2017-05-02"
   date_end = ""
   description = """
-  Responsibilities include:
+ 
+ [[experience]]
+  title = "PhD Research Scholar"
+  company = "TU Berlin (DAAD Full-Time Scholarship)"
+  company_url = "http://www.tu-berlin.de"
+  location = "Berlin, Germany"
+  date_start = "2013-10-01"
+  date_end = "2013-05-27"
+  description = """
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+   [[experience]]
+  title = "DAAD-IIT Masters Exchange Scholar"
+  company = "TU Berlin (DAAD-IIT MSP Scholarship)"
+  company_url = "http://www.tu-berlin.de"
+  location = "Berlin, Germany"
+  date_start = "2011-09-01"
+  date_end = "2012-05-31"
+  description = """
 
-title = "Experience"
 subtitle = "Teaching"
   [[experience]]
   title = "Professor"
@@ -43,7 +54,7 @@ subtitle = "Teaching"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
  
- title = "Experience"
+
 subtitle = "Service"
 
 +++
