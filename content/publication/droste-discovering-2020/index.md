@@ -4,7 +4,7 @@ date: 2020-01-01
 authors:
 - "Richard Droste"
 - "Pierre Chatelain"
-- "Lior Drukker", 
+- "Lior Drukker"
 - "Harshita **Sharma**"
 - Aris T. Papageorghiou 
 - J. Alison Noble
