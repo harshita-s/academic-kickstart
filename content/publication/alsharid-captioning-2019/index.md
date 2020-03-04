@@ -31,7 +31,7 @@ links:
   icon_pack: ai
   icon: doi
 - name: ORA
-  url: https://ora.ox.ac.uk/objects/uuid:a27fe42b-3a94-4b0f-bc7d-2173c0348b6f
+  url: https://ora.ox.ac.uk/objects/uuid:218606f8-9321-478e-a89e-63316058c546
   icon_pack: ai
   icon: open-access
 - name: Springer
