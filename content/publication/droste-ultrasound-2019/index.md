@@ -8,5 +8,34 @@ featured = false
 publication = "*Information Processing in Medical Imaging*"
 tags = ["Convolutional neural networks", "Fetal ultrasound", "Gaze tracking", "Representation learning", "Saliency prediction", "Self-supervised learning", "Transfer learning"]
 doi = "10.1007/978-3-030-20351-1_46"
+links:
+- name: PDF
+  url: https://arxiv.org/pdf/1903.02974.pdf
+  icon_pack: fas
+  icon: file-pdf
+- name: Poster
+  url: files/181_droste-et-al_ultrasound-visual-attention-modelling_v2-7.pdf
+  icon_pack: fas
+  icon: scroll
+- name: DOI
+  url: https://doi.org/10.1007/978-3-030-20351-1_46
+  icon_pack: ai
+  icon: doi
+- name: arXiv
+  url: https://arxiv.org/abs/1903.02974
+  icon_pack: ai
+  icon: arxiv
+- name: ORA
+  url: https://ora.ox.ac.uk/objects/uuid:a27fe42b-3a94-4b0f-bc7d-2173c0348b6f
+  icon_pack: ai
+  icon: open-access
+- name: Springer
+  url: https://link.springer.com/chapter/10.1007/978-3-030-20351-1_46
+  icon_pack: ai
+  icon: springer
+- name: BibTeX
+  icon_pack: fas
+  icon: quote-right
+  url: publication/droste-ultrasound-2019/#droste-ultrasound-2019
 +++
 
