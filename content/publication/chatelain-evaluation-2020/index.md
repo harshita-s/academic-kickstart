@@ -57,7 +57,7 @@ tags:
 - "human-machine interactions" 
 - "image-based medical exams"
 - "innovative computer-aided imaging systems"
-- "long-term gaze tracking studies", 
+- "long-term gaze tracking studies"
 - "longitudinal biomedical imaging studies"
 - "medical image processing"
 - "Monitoring"
