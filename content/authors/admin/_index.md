@@ -35,10 +35,10 @@ education:
     institution: [Technische Universität Berlin] ( {{< ref "https://www.tu-berlin.de/menue/home/" >}} )
     year: 2017
   - course: M.Tech. in Instrumentation and Signal Processing 
-    institution: [Indian Institute of Technology Roorkee] ( {{< "https://www.iitr.ac.in/" >}} )
+    institution: [Indian Institute of Technology Roorkee] ( {{< ref "https://www.iitr.ac.in/" >}} )
     year: 2012
   - course: B.Tech. in Electronics and Communication Engineering
-    institution: [Indira Gandhi Delhi Technical University for Women] ( {{< https://www.igdtuw.ac.in/ >}} )
+    institution: [Indira Gandhi Delhi Technical University for Women] ( {{< ref "https://www.igdtuw.ac.in/" >}} )
     year: 2010
 
 # Social/Academic Networking
