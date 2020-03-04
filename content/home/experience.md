@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2017-05-02"
   date_end = ""
   description = """
-  * Analyzing multimodal big data consisting of videos, images, and other sensory data to develop novel methods for medical ultrasound. 
-  * Performing independent research and collaboration with project team members, including Nuffield Department of Women’s & Reproductive Health at the John Radcliffe Hospital. 
+  * Analyzing **multimodal big data** consisting of videos, images, and sensory data to develop novel methods for medical ultrasound. 
+  * Performing independent research and collaborations with project team members, including Nuffield Department of Women’s & Reproductive Health at the John Radcliffe Hospital. 
  """
  
  [[experience]]
@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   date_start = "2011-09-01"
   date_end = "2012-05-31"
   description = """
-  * Master dissertation was titled **Determining Similarity in Histological Images using Graph-Theoretic Description and Matching Methods for Content-Based Image Retrieval in Medical Diagnostics**.
-  * Was a part of the collaborative research project **Virtual Specimen Scout**.
+  * Master's thesis was titled **Determining Similarity in Histological Images using Graph-Theoretic Description and Matching Methods for Content-Based Image Retrieval in Medical Diagnostics**.
+  * Was a part of the collaborative research project **Virtual Specimen Scout** of Charité University Hospital Berlin, TU Berlin, VMscope GmbH Berlin and NEXUS AG Villingen-Schwenningen.
   """
 
 [[experience]]
@@ -77,5 +77,13 @@ subtitle = "Teaching"
  
 
 subtitle = "Service"
-
+[[experience]]
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+ 
 +++
