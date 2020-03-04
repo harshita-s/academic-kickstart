@@ -19,7 +19,7 @@ publication: "*arXiv:2001.08188*"
 
 tags:
 - Computer Science 
-- Computer Vision and Pattern Recognition"
+- Computer Vision and Pattern Recognition
 - Computer Science 
 - Machine Learning
 - Electrical Engineering and Systems Science 
