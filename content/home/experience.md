@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   date_start = "2013-10-01"
   date_end = "2013-05-27"
   description = """
-  * Ph.D. thesis is titled **Medical Image Analysis of Gastric Cancer in Digital Histopathology: Methods, Applications and Challenges**. 
-  * The research was performed between TU Berlin, Charité University Hospital Berlin and UKSH Kiel, Germany. 
+  * Ph.D. thesis was titled **Medical Image Analysis of Gastric Cancer in Digital Histopathology: Methods, Applications and Challenges**. 
+  * The research was performed between TU Berlin, Charité University Hospital Berlin and UKSH Kiel. 
   """
   
    [[experience]]
