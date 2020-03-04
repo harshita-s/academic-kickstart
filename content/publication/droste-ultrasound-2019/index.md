@@ -10,7 +10,6 @@ authors:
 - J. Alison Noble
 
 date: " 2019-01-01T00:00:00Z"
-doi: "10.1007/978-3-030-20351-1_46"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-01T00:00:00Z"
