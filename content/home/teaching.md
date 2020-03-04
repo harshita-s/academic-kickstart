@@ -29,6 +29,36 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
+    
+  [[experience]]
+  title = "Teaching Assistant in Engineering Science"
+  company = "University of Oxford"
+  company_url = "http://www.ox.ac.uk"
+  location = "Oxford, United Kingdom"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = """
+* Received [SEDA PDF Supporting Learning Award](https://www.seda.ac.uk/supporting-learning), *a portable accredited qualification in Higher Education teaching. The award is aligned to the UK Professional Standards Framework (UKPSF) for Teaching and Supporting Learning in Higher Education, at Descriptor 1*.
+* Lead Tutor with tutorials and exam setting in B-13 paper Circuits and Communications.
+* Lecture and lab demonstration in coursework module Biomedical Engineering: Introduction to Biomedical Image Analysis.
+* Lectures and practical in Advanced Image Analysis module at the DTC-ONBI Programme.
+* Tutorials and independent studies on Mathematical Modelling for Teach First Futures Easter School and Headstart Programme.
+  """
+  
+  [[experience]]
+  title = "Lecturer"
+  company = "Jaypee Institute of Information Technology"
+  company_url = ""
+  location = "Noida, India"
+  date_start = "2012-07-01"
+  date_end = "2013-04-30"
+  description = """
+* Course Coordinator-Lectures, Tutorials and Exam Paper-Setting: Electrical Machines and Instruments
+* Lab Instructor: Electrical Machines and Instruments
+* Course Instructor-Lectures and Tutorials: Basic Electronic Devices and Circuits
+* Lab Instructor: Basic Electronic Devices and Circuits
+* Project Supervisor: Undergraduate 3rd year and 4th year projects
+  """
   
 [design]
   # Toggle between the various page layout types.
