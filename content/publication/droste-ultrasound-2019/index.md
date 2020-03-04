@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*Information Processing in Medical Imaging*"
+publication: In *Information Processing in Medical Imaging*
 
 publication_short: In *IPMI 2020*
 
@@ -68,5 +68,5 @@ links:
   icon_pack: fas
   icon: quote-right
   url: publication/droste-ultrasound-2019/#droste-ultrasound-2019
-+++
+---
 
