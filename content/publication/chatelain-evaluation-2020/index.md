@@ -3,7 +3,7 @@ title : "Evaluation of Gaze Tracking Calibration for Longitudinal Biomedical Ima
 date : 2020-01-01
 authors:
 - Pierre Chatelain
-- "**Harshita Sharma**"
+- Harshita **Sharma**"
 - Lior Drukker
 - Aris T. Papageorghiou 
 - J. Alison Noble
