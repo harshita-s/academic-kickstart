@@ -32,13 +32,13 @@ interests:
 education:
   courses:
   - course: Ph.D.(Dr.-Ing.) in Computer Vision
-    institution: <a href="https://www.tu-berlin.de/menue/home/">Technische Universität Berlin</a>
+    institution: [Technische Universität Berlin]("https://www.tu-berlin.de/menue/home/")
     year: 2017
   - course: M.Tech. in Instrumentation and Signal Processing 
-    institution: <a href="https://www.iitr.ac.in/">Indian Institute of Technology Roorkee</a>
+    institution: [Indian Institute of Technology Roorkee]("https://www.iitr.ac.in/")
     year: 2012
   - course: B.Tech. in Electronics and Communication Engineering
-    institution: <a href= "https://www.igdtuw.ac.in/">Indira Gandhi Delhi Technical University for Women</a>
+    institution: [Indira Gandhi Delhi Technical University for Women]("https://www.igdtuw.ac.in/")
     year: 2010
 
 # Social/Academic Networking
