@@ -42,10 +42,6 @@ links:
   url: https://arxiv.org/pdf/1903.02974.pdf
   icon_pack: fas
   icon: file-pdf
-- name: Poster
-  url: files/181_droste-et-al_ultrasound-visual-attention-modelling_v2-7.pdf
-  icon_pack: fas
-  icon: scroll
 - name: DOI
   url: https://doi.org/10.1007/978-3-030-20351-1_46
   icon_pack: ai
