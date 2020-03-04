@@ -35,7 +35,7 @@ links:
   icon_pack: ai
   icon: arxiv
 - name: ORA
-  url: https://ora.ox.ac.uk/objects/uuid:c750b5ce-03a0-4e7b-bdd3-140e65c4bcad
+  url: https://ora.ox.ac.uk/objects/uuid:ea5a4c52-85ec-4317-aeba-de8a61953722
   icon_pack: ai
   icon: open-access
 - name: BibTeX
