@@ -26,7 +26,17 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   * Analyzing **multimodal big data** consisting of videos, images, and sensory data to develop novel methods for medical ultrasound. 
-  * Performing independent research and collaborations with project team members, including Nuffield Department of Women’s & Reproductive Health at the John Radcliffe Hospital. 
+  * Performing **independent research and collaborations** with project team members, including Nuffield Department of Women’s & Reproductive Health at the John Radcliffe Hospital. 
  """
- 
+ [[experience]]
+  title = "PhD Research Scholar"
+  company = "TU Berlin (DAAD Full-Time Scholarship)"
+  company_url = "http://www.tu-berlin.de"
+  location = "Berlin, Germany"
+  date_start = "2013-10-01"
+  date_end = "2013-05-27"
+  description = """
+  * Ph.D. thesis was titled **Medical Image Analysis of Gastric Cancer in Digital Histopathology: Methods, Applications and Challenges**. 
+  * The research was performed between TU Berlin, Charité University Hospital Berlin and UKSH Kiel. 
+  """
 +++
