@@ -36,6 +36,30 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/cai-multi-task-2018/#cai-multi-task-2018.bib
+  url: publication/cai-multi-task-2018/bibtex
 ---
 
+---
+
+# BibTex 
+```
+@inproceedings{cai_multi-task_2018,
+ title = {Multi-task SonoEyeNet: Detection of Fetal Standardized Planes Assisted by Generated Sonographer Attention Maps},
+ author = {Cai, Yifan and Sharma, Harshita and Chatelain, Pierre and Noble, J. Alison},
+ booktitle = {Medical Image Computing and Computer Assisted Intervention – MICCAI 2018},
+ doi = {10.1007/978-3-030-00928-1_98},
+ editor = {Frangi, Alejandro F. and Schnabel, Julia A. and Davatzikos, Christos and Alberola-López, Carlos and Fichtinger, Gabor},
+ file = {Springer Full Text PDF:C\:\\Users\\engs1750\\Zotero\\storage\\76M7KC27\\Cai et al. - 2018 - Multi-task SonoEyeNet Detection of Fetal Standard.pdf:application/pdf},
+ isbn = {978-3-030-00928-1},
+ keywords = {Fetal ultrasound, Gaze tracking, Generative Adversarial Network, Multi-task learning, Saliency prediction, Standardized plane detection},
+ language = {en},
+ pages = {871--879},
+ publisher = {Springer International Publishing},
+ series = {Lecture Notes in Computer Science},
+ shorttitle = {Multi-task SonoEyeNet},
+ year = {2018},
+address = {Cham}
+}
+```
+
+---
