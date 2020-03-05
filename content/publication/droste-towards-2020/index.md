@@ -43,7 +43,7 @@ links:
 - name: BibTex
   icon_pack: fas
   icon: quote-right
-  url: #bibtex
+  url: publication/droste-towards-2020/#bibtex
  
 ---
 
