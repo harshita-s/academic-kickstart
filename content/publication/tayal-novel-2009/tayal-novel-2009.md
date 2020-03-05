@@ -24,5 +24,21 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/tayal-novel-2009/#tayal-novel-2009.bib
+  url: publication/tayal-novel-2009/#bibtex
+---
+
+---
+# BibTex
+```
+@article{tayal_novel_2010,
+ title = {A Novel Technique Combining Euclidian Distance Measure and DHMM For Automatic Speaker Recognition}
+ author = {Tayal, Akash and Sharma, Harshita and Bansal, Twinkle},
+ year = {2010},
+ booktitle = {IEEE INDIACom 2010},
+ language = {en},
+ pages = {7},
+}
+
+```
+
 ---
