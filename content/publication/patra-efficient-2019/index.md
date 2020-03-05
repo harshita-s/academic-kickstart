@@ -35,6 +35,26 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/patra-efficient-2019/#patra-efficient-2019.bib
+  url: publication/patra-efficient-2019/#bibtex
 ---
 
+---
+
+# BibTex
+```
+@inproceedings{patra_efficient_2019,
+ title = {Efficient Ultrasound Image Analysis Models with Sonographer Gaze Assisted Distillation},
+ author = {Patra, Arijit and Cai, Yifan and Chatelain, Pierre and Sharma, Harshita and Drukker, Lior and Papageorghiou, Aris T. and Noble, J. Alison},
+ booktitle = {Medical Image Computing and Computer Assisted Intervention – MICCAI 2019},
+ doi = {10.1007/978-3-030-32251-9_43},
+ editor = {Shen, Dinggang and Liu, Tianming and Peters, Terry M. and Staib, Lawrence H. and Essert, Caroline and Zhou, Sean and Yap, Pew-Thian and Khan, Ali},
+ isbn = {978-3-030-32251-9},
+ language = {en},
+ pages = {394--402},
+ publisher = {Springer International Publishing},
+ series = {Lecture Notes in Computer Science},
+ address = {Cham},
+ year = {2019}
+}
+```
+---
