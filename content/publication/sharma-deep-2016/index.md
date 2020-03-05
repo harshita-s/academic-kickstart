@@ -1,12 +1,31 @@
-+++
-title = "Deep Convolutional Neural Networks for Histological Image Analysis in Gastric Carcinoma Whole Slide Images"
-date = 2016-01-01
-authors = ["H. Sharma", "N. Zerbe", "I. Klempert", "O. Hellwich", "P. Hufnagl"]
-publication_types = ["2"]
-abstract = "Introduction/ BackgroundIn this paper, histopathological whole slide images of gastric carcinoma are analyzed using deep learningmethods. A convolutional  neural network architecture is proposed for two classification applications in H&E stained tissue images, namely, cancer classification based on immunohistochemistry (IHC) into classes Her2/neu+ tumor, Her2/neu- tumor and non-tumor, and necrosis detection based on existence of necrosis into classes necrotic and non-necrotic. The studies in [1] and [2] explored computer-aided classification using graphbased methods and necrosis detection by textural approach respectively, which are extended using deep convolutional neural networks. Performance is quantitatively compared with established handcrafted image features, namely Haralick GLCM, Gabor filter-banks, LBP histograms, Gray histograms, RGB histograms and HSV histograms followed by classification by random forests, another well-known machine learning algorithm.AimsConvolutional neural networks (CNN) have recently gained tremendous attention in general image analysis [3-5]. There has also been an emergence of deep learning in digital histopathology for diverseclassification and detection problems [6-8]. The prime motivation behind this work is that no previous study has explored deep learning for the specified goals in gastric cancer WSI. Automated cancer classification can assist pathologists in computer-aided diagnosis in H&E stained WSI without the requirement of IHC staining, thereby reducing preparation and inspection times, and decreasing inter- and intra-observer variability. Necrosis detection can play an important role in prognosis, as larger necrotic areas indicate a smaller chance of survival and vice-versa. Moreover, most deep learning studies have used smaller image sizes mainly due to memory restrictions of GPU, however, we consider larger regions in order to preserve context i.e. neighborhood information and tissue architecture at higher magnification. Further, this method is independent of nuclei segmentation, hence its performance is not limited by segmentation performance as in [1] (evaluation details in [9]).MethodsFirstly, standard data augmentation techniques are applied on the available gastric cancer WSI dataset andthousands of images of size 512x512 are generated. Different CNN architectures are empirically studied to observe the behavior of variation in model characteristics (network depth, layer properties, training parameters, etc.) by training them from scratch on a representative subset of whole data for cancer classification. One of these is the Imagenet model [4], however it doesn’t perform desirably on the representative dataset. The self-designed CNN architecture with best classification rates is selected. Later, the proposed CNN is also applied for necrosis detection. Performance is compared with state of the art methods using handcrafted features and random forests. For evaluation, randomized three-fold stratified shuffle split and leave-one-patient-out cross validations are used.ResultsConclusion: A self-designed CNN architecture is proposed for image analysis (cancer classification based on IHC and necrosis detection) in H&E stained WSI of gastric cancer. Quantitative evaluation shows that deep learning methods mostly compare favorably to state of the art methods, especially for necrosis detection. In future the aim is to expand the current WSI dataset and to improve the CNN architecture for optimal performance."
-featured = false
-publication = "*Diagnostic Pathology*"
-url_pdf = "http://www.diagnosticpathology.eu/content/index.php/dpath/article/view/230"
-doi = "10.17629/www.diagnosticpathology.eu-2016-8:230"
-+++
+---
+title: "Deep Convolutional Neural Networks for Histological Image Analysis in Gastric Carcinoma Whole Slide Images"
+date:  2016-01-01
+authors: 
+- "H. Sharma"
+- "N. Zerbe"
+- "I. Klempert"
+- "O. Hellwich"
+- "P. Hufnagl"
+
+publication_types: ["2"]
+
+featured: false
+publication: "*Diagnostic Pathology, ECDP Conference Proceedings 2016*"
+
+links:
+- name: Link
+  url: http://www.diagnosticpathology.eu/content/index.php/dpath/article/view/230
+  icon_pack: fas
+  icon: link
+- name: DOI
+  url: https://doi.org/10.17629/www.diagnosticpathology.eu-2016-8:230
+  icon_pack: ai
+  icon: doi
+- name: BibTeX
+  icon_pack: fas
+  icon: quote-right
+  url: publication/sharma-deep-2016/#sharma-deep-2016.bib
+
+---
 
