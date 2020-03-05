@@ -3,6 +3,8 @@ title: "Histopathological Image Analysis for Determining Tissue Composition in G
 
 date: 2014-12-01
 
+doi: ""
+
 authors:
 - Harshita **Sharma**
 - Norman Zerbe
