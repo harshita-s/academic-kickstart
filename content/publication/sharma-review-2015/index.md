@@ -1,6 +1,8 @@
 ---
 title: "A review of graph-based methods for image analysis in digital histopathology"
+
 date: 2015-07-01
+
 authors: 
 - "Harshita **Sharma**"
 - "Norman Zerbe"
@@ -22,7 +24,7 @@ tags:
 - "graph-based methods"
 - "image understanding"
 - "medical image analysis" 
-- "spatial arrangement", 
+- "spatial arrangement"
 - "tissue architecture"
 - "whole slide images"
 
