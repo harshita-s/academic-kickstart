@@ -45,8 +45,9 @@ links:
   icon: quote-right
   url: #bibtex
  
- ---
+---
 
+---
 # BibTex
 
 ```
