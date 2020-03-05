@@ -64,3 +64,19 @@ links:
   url: publication/sharma-appearance-based-2015/#sharma-appearance-based-2015.bib
 ---
 
+---
+
+# BibTex
+```
+@inproceedings{sharma_appearance-based_2015,
+ title = {Appearance-based necrosis detection using textural features and SVM with discriminative thresholding in histopathological whole slide images},
+ author = {Sharma, Harshita and Zerbe, Norman and Klempert, Iris and Lohmann, Sebastian and Lindequist, Bjorn and Hellwich, Olaf and Hufnagl, Peter},
+ booktitle = {2015 IEEE 15th International Conference on Bioinformatics and Bioengineering (BIBE)},
+ doi = {10.1109/BIBE.2015.7367702},
+ pages = {1--6},
+ year = {2015}
+}
+
+```
+
+---
