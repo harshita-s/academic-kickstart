@@ -32,7 +32,7 @@ links:
 ---
 # BibTex
 ```
-@article{sharma_deep_2016,
+@inproceedings{sharma_deep_2016,
  title = {Deep Convolutional Neural Networks for Histological Image Analysis in Gastric Carcinoma Whole Slide Images},
  author = {Sharma, H. and Zerbe, N. and Klempert, I. and Hellwich, O. and Hufnagl, P.},
  copyright = {Copyright (c) 2016 H. Sharma, N. Zerbe, I. Klempert, O. Hellwich, P. Hufnagl},
