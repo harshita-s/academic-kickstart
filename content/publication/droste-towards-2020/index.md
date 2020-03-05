@@ -44,5 +44,28 @@ links:
   icon_pack: fas
   icon: quote-right
   url: #bibtex
+ 
+ ---
+
+# BibTex
+
+```
+@inproceedings{droste_towards_2020,
+title = {Towards Capturing Sonographic Experience: Cognition-Inspired Ultrasound Video Saliency Prediction},
+ author = {Droste, Richard and Cai, Yifan and Sharma, Harshita and Chatelain, Pierre and Papageorghiou, Aris T. and Noble, J. Alison},
+ booktitle = {Medical Image Understanding and Analysis},
+ doi = {10.1007/978-3-030-39343-4_15},
+ editor = {Zheng, Yalin and Williams, Bryan M. and Chen, Ke},
+ isbn = {978-3-030-39343-4},
+ keywords = {Convolutional neural networks, Fetal ultrasound, Gaze tracking, Video saliency prediction},
+ language = {en},
+ pages = {174--186},
+ publisher = {Springer International Publishing},
+ address = {Cham},
+ series = {Communications in Computer and Information Science},
+ shorttitle = {Towards Capturing Sonographic Experience},
+ year = {2020}
+}
+```
 ---
 
