@@ -4,7 +4,7 @@ title: "Appearance-based necrosis detection using textural features and SVM with
 date: 2015-10-01
 
 authors: 
-- "Harshita Sharma"
+- "Harshita **Sharma**"
 - "Norman Zerbe"
 - "Iris Klempert"
 - "Sebastian Lohmann"
