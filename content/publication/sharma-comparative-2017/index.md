@@ -68,7 +68,25 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/sharma-comparative-2017/#sharma-comparative-2017.bib
+  url: publication/sharma-comparative-2017/#bibtex
   
 ---
 
+---
+
+# BibTex
+
+```
+@inproceedings{sharma_comparative_2017,
+ title = {A Comparative Study of Cell Nuclei Attributed Relational Graphs for Knowledge Description and Categorization in Histopathological Gastric Cancer Whole Slide Images},
+ author = {Sharma, Harshita and Zerbe, Norman and Böger, Christine and Wienert, Stephan and Hellwich, Olaf and Hufnagl, Peter},
+ booktitle = {2017 IEEE 30th International Symposium on Computer-Based Medical Systems (CBMS)},
+ doi = {10.1109/CBMS.2017.25},
+ note = {ISSN: 2372-9198},
+ pages = {61--66},
+ year = {2017}
+}
+
+```
+
+---
