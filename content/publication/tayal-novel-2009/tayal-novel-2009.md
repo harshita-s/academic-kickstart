@@ -28,11 +28,9 @@ links:
 ---
 
 ---
-
 # BibTex
-
 ```
-@inproceedings{tayal_novel_2010,
+@inproceedings{tayal_novel_2009,
  title = {A Novel Technique Combining Euclidian Distance Measure and DHMM For Automatic Speaker Recognition}
  author = {Tayal, Akash and Sharma, Harshita and Bansal, Twinkle},
  year = {2010},
@@ -42,5 +40,4 @@ links:
 }
 
 ```
-
 ---
