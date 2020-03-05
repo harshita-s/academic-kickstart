@@ -43,6 +43,6 @@ links:
 - name: BibTex
   icon_pack: fas
   icon: quote-right
-  url: bibtex.bib
+  url: #bibtex
 ---
 
