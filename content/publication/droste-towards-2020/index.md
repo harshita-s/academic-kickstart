@@ -40,7 +40,7 @@ links:
   url: https://link.springer.com/chapter/10.1007%2F978-3-030-39343-4_15
   icon_pack: ai
   icon: springer
-- name: cite
+- name: BibTex
   icon_pack: fas
   icon: quote-right
   url: publication/droste-towards-2020/#bibtex
