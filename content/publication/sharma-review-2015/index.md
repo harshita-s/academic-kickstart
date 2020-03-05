@@ -26,9 +26,6 @@ tags:
 - "tissue architecture"
 - "whole slide images"
 
-url_pdf = ""
-doi = ""
-
 links:
 - name: DOI
   url: https://doi.org/10.17629/www.diagnosticpathology.eu-2015-1:61
