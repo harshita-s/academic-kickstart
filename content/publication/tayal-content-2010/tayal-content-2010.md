@@ -10,6 +10,6 @@ date: 2010-07-01
 
 publication_types: ["1"]
 
-publication: *National Conference on Information Management in Knowledge Economy 2010*
+publication: "*National Conference on Information Management in Knowledge Economy 2010*"
 
 ---
