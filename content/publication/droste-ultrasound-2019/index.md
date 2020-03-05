@@ -60,6 +60,27 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/droste-ultrasound-2019/#droste-ultrasound-2019
+  url: publication/droste-ultrasound-2019/#bibtex
 ---
 
+---
+# BibTex
+
+```
+@inproceedings{droste_ultrasound_2019,
+ author = {Droste, Richard and Cai, Yifan and Sharma, Harshita and Chatelain, Pierre and Drukker, Lior and Papageorghiou, Aris T. and Noble, J. Alison},
+ title = {Ultrasound Image Representation Learning by Modeling Sonographer Visual Attention},
+ booktitle = {Information Processing in Medical Imaging},
+ address = {Cham},
+ doi = {10.1007/978-3-030-20351-1_46},
+ editor = {Chung, Albert C. S. and Gee, James C. and Yushkevich, Paul A. and Bao, Siqi},
+ isbn = {978-3-030-20351-1},
+ language = {en},
+ pages = {592--604},
+ publisher = {Springer International Publishing},
+ series = {Lecture Notes in Computer Science},
+ year = {2019}
+}
+```
+
+---
