@@ -1,10 +1,10 @@
 ---
 title: "A Novel Technique Combining Euclidian Distance Measure and DHMM For Automatic Speaker Recognition"
 
-date: 2010-01-01
+date: 2010-12-01
 
 authors:
-- Akash tayal
+- Akash Tayal
 - Harshita **Sharma**
 - Twinkle Bansal
 
