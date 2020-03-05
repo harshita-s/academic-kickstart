@@ -1,10 +1,6 @@
 ---
 title: "Histopathological Image Analysis for Determining Tissue Composition in Gastric Cancer"
-
 date: 2014-12-01
-
-doi: ""
-
 authors:
 - Harshita **Sharma**
 - Norman Zerbe
@@ -14,7 +10,7 @@ authors:
 - Olaf Hellwich
 - Peter Hufnagl
 
-publication: *Digital Pathology Congress 2014*
+publication: "*Digital Pathology Congress 2014*"
 
 publication_types: ["1"]
 
