@@ -69,6 +69,24 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/sharma-spatio-temporal-2019/#sharma-spatio-temporal-2019.bib
+  url: publication/sharma-spatio-temporal-2019/#bibtex
+  
+---
+
+---
+ # BibTex
+ 
+ ```
+ @inproceedings{sharma_spatio-temporal_2019,
+ title = {Spatio-Temporal Partitioning And Description Of Full-Length Routine Fetal Anomaly Ultrasound Scans},
+ author = {Sharma, H. and Droste, R. and Chatelain, P. and Drukker, L. and Papageorghiou, A.T. and Noble, J.A.},
+ booktitle = {2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)},
+ doi = {10.1109/ISBI.2019.8759149},
+ note = {ISSN: 1945-7928},
+ pages = {987--990},
+ year = {2019}
+}
+ 
+ ```
 ---
 
