@@ -19,14 +19,14 @@ featured: true
 publication: "*SPIE Medical Imaging 2016*. **Best Student Paper Award Finalist and Best Poster Award**."
 
 links:
-- name: Link
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9791/97910X/Cell-nuclei-attributed-relational-graphs-for-efficient-representation-and-classification/10.1117/12.2216843.short
-  icon_pack: fas
-  icon: link
 - name: DOI
   url: https://doi.org/10.1117/12.2216843
   icon_pack: ai
   icon: doi
+- name: Link
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9791/97910X/Cell-nuclei-attributed-relational-graphs-for-efficient-representation-and-classification/10.1117/12.2216843.short
+  icon_pack: fas
+  icon: link
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
