@@ -40,6 +40,25 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/sharma-review-2015/#sharma-review-2015.bib
+  url: publication/sharma-review-2015/#bibtex
 ---
+---
+# BibTex
+```
+@article{sharma_review_2015,
+ title = {A review of graph-based methods for image analysis in digital histopathology},
+ author = {Sharma, Harshita and Zerbe, Norman and Lohmann, Sebastian and Kayser, Klaus and Hellwich, Olaf and Hufnagl, Peter},
+ copyright = {Copyright (c) 2015 Harshita Sharma, Norman Zerbe, Sebastian Lohmann, Klaus Kayser, Olaf Hellwich, Peter Hufnagl},
+ doi = {10.17629/www.diagnosticpathology.eu-2015-1:61},
+ issn = {ISSN 2364-4893},
+ journal = {Diagnostic Pathology},
+ language = {en},
+ number = {1},
+ url = {http://www.diagnosticpathology.eu/ojs-2.4.5/index.php/dpath/article/view/61},
+ urldate = {2020-03-04},
+ volume = {1},
+ year = {2015}
+}
 
+```
+---
