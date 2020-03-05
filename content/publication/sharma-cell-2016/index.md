@@ -30,6 +30,27 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/sharma-cell-2016/#sharma-cell-2016.bib
+  url: publication/sharma-cell-2016/#bibtex
+
+---
+
+---
+
+# BibTex
+```
+@inproceedings{sharma_cell_2016,
+ title = {Cell nuclei attributed relational graphs for efficient representation and classification of gastric cancer in digital histopathology},
+ author = {Sharma, Harshita and Zerbe, Norman and Heim, Daniel and Wienert, Stephan and Lohmann, Sebastian and Hellwich, Olaf and Hufnagl, Peter},
+ booktitle = {Medical Imaging 2016: Digital Pathology},
+ doi = {10.1117/12.2216843},
+ pages = {97910X},
+ publisher = {International Society for Optics and Photonics},
+ url = {https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9791/97910X/Cell-nuclei-attributed-relational-graphs-for-efficient-representation-and-classification/10.1117/12.2216843.short},
+ urldate = {2020-03-04},
+ volume = {9791},
+ year = {2016}
+}
+
+```
 
 ---
