@@ -41,6 +41,30 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/alsharid-captioning-2019/#/alsharid-captioning-2019.bib
+  url: publication/alsharid-captioning-2019/#bibtex
+
+---
+
+---
+# BibTex
+
+```
+@inproceedings{alsharid_captioning_2019,
+ title = {Captioning Ultrasound Images Automatically},
+ author = {Alsharid, Mohammad and Sharma, Harshita and Drukker, Lior and Chatelain, Pierre and Papageorghiou, Aris T. and Noble, J. Alison},
+ booktitle = {Medical Image Computing and Computer Assisted Intervention – MICCAI 2019},
+ doi = {10.1007/978-3-030-32251-9_37},
+ editor = {Shen, Dinggang and Liu, Tianming and Peters, Terry M. and Staib, Lawrence H. and Essert, Caroline and Zhou, Sean and Yap, Pew-Thian and Khan, Ali},
+ file = {Springer Full Text PDF:C\:\\Users\\engs1750\\Zotero\\storage\\V9FBMHRE\\Alsharid et al. - 2019 - Captioning Ultrasound Images Automatically.pdf:application/pdf},
+ isbn = {978-3-030-32251-9},
+ keywords = {Deep learning, Fetal ultrasound, Image captioning, Image description, Natural language processing, Recurrent neural networks},
+ language = {en},
+ pages = {338--346},
+ address = {Cham},
+ publisher = {Springer International Publishing},
+ series = {Lecture Notes in Computer Science},
+ year = {2019}
+}
+```
 
 ---
