@@ -43,6 +43,6 @@ links:
 - name: cite
   icon_pack: fas
   icon: quote-right
-  # url: publication/droste-towards-2020/#cite
+  url: publication/droste-towards-2020/#bibtex
 ---
 
