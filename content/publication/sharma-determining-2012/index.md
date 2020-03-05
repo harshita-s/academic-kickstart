@@ -30,6 +30,28 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/sharma-determining-2012/#sharma-determining-2012.bib
+  url: publication/sharma-determining-2012/#bibtex
+  
+---
+
+---
+# BibTex
+
+```
+@article{sharma_determining_2012,
+ title = {Determining similarity in histological images using graph-theoretic description and matching methods for content-based image retrieval in medical diagnostics},
+ author = {Sharma, Harshita and Alekseychuk, Alexander and Leskovsky, Peter and Hellwich, Olaf and Anand, RS and Zerbe, Norman and Hufnagl, Peter},
+ doi = {10.1186/1746-1596-7-134},
+ issn = {1746-1596},
+ journal = {Diagnostic Pathology},
+ language = {en},
+ number = {1},
+ pages = {134},
+ url = {https://doi.org/10.1186/1746-1596-7-134},
+ urldate = {2020-03-04},
+ volume = {7},
+ year = {2012}
+}
+```
 ---
 
