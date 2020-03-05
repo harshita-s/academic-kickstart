@@ -36,7 +36,7 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/cai-multi-task-2018/bibtex
+  url: publication/cai-multi-task-2018/#bibtex
 ---
 
 ---
