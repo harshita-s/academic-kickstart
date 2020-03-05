@@ -32,7 +32,7 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/chatelain-evaluation-2020/#chatelain-evaluation-2020.bib
+  url: publication/chatelain-evaluation-2020/#bibtex
 
 tags:
 - "Accuracy" 
@@ -63,5 +63,24 @@ tags:
 - "ultrasonography setting" 
 - "visual perception"
 - "Visualization"
+
+---
+
+# BibTex
+
+```
+@article{chatelain_evaluation_2020,
+ title = {Evaluation of Gaze Tracking Calibration for Longitudinal Biomedical Imaging Studies},
+ author = {Chatelain, Pierre and Sharma, Harshita and Drukker, Lior and Papageorghiou, Aris T. and Noble, J. Alison},
+ doi = {10.1109/TCYB.2018.2866274},
+ issn = {2168-2275},
+ journal = {IEEE Transactions on Cybernetics},
+ number = {1},
+ pages = {153--163},
+ volume = {50},
+ year = {2020}
+}
+
+```
 
 ---
