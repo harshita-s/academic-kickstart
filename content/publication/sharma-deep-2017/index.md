@@ -36,7 +36,30 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/sharma-deep-2017/#sharma-deep-2017.bib
+  url: publication/sharma-deep-2017/#bibtex
+
+---
+
+---
+# BibTex
+
+```
+@article{sharma_deep_2017,
+ title = {Deep convolutional neural networks for automatic classification of gastric carcinoma using whole slide images in digital histopathology},
+ author = {Sharma, Harshita and Zerbe, Norman and Klempert, Iris and Hellwich, Olaf and Hufnagl, Peter},
+ doi = {10.1016/j.compmedimag.2017.06.001},
+ issn = {0895-6111},
+ journal = {Computerized Medical Imaging and Graphics},
+ language = {en},
+ pages = {2--13},
+ series = {Selected papers from the 13th European Congress on Digital Pathology},
+ url = {http://www.sciencedirect.com/science/article/pii/S0895611117300502},
+ urldate = {2020-03-04},
+ volume = {61},
+ year = {2017}
+}
+
+```
 
 ---
 
