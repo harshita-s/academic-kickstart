@@ -55,7 +55,6 @@ links:
  booktitle = {Medical Image Computing and Computer Assisted Intervention – MICCAI 2019},
  doi = {10.1007/978-3-030-32251-9_37},
  editor = {Shen, Dinggang and Liu, Tianming and Peters, Terry M. and Staib, Lawrence H. and Essert, Caroline and Zhou, Sean and Yap, Pew-Thian and Khan, Ali},
- file = {Springer Full Text PDF:C\:\\Users\\engs1750\\Zotero\\storage\\V9FBMHRE\\Alsharid et al. - 2019 - Captioning Ultrasound Images Automatically.pdf:application/pdf},
  isbn = {978-3-030-32251-9},
  keywords = {Deep learning, Fetal ultrasound, Image captioning, Image description, Natural language processing, Recurrent neural networks},
  language = {en},
