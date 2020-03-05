@@ -41,7 +41,27 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/droste-discovering-2020/#droste-discovering-2020.bib
+  url: publication/droste-discovering-2020/#bibtex
 
 ---
 
+---
+
+# BibTex
+
+```
+@article{droste_discovering_2020,
+ annote = {Comment: Accepted at IEEE International Symposium on Biomedical Imaging 2020 (ISBI 2020)},
+ author = {Droste, Richard and Chatelain, Pierre and Drukker, Lior and Sharma, Harshita and Papageorghiou, Aris T. and Noble, J. Alison},
+ title = {Discovering Salient Anatomical Landmarks by Predicting Human Gaze},
+ journal = {arXiv:2001.08188 [cs, eess]},
+ keywords = {Computer Science - Computer Vision and Pattern Recognition, Computer Science - Machine Learning, Electrical Engineering and Systems Science - Image and Video Processing},
+ note = {arXiv: 2001.08188},
+ url = {http://arxiv.org/abs/2001.08188},
+ urldate = {2020-03-04},
+ year = {2020}
+}
+
+```
+
+---
