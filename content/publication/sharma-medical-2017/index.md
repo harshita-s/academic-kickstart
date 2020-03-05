@@ -20,6 +20,22 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/sharma-medical-2017/#sharma-medical-2017.bib
+  url: publication/sharma-medical-2017/#bibtex
 ---
 
+---
+# BibTex
+```
+@misc{sharma_medical_2017,
+ title = {Medical image analysis of gastric cancer in digital histopathology: methods, applications and challenges},
+ author = {Sharma, Harshita},
+ copyright = {https://creativecommons.org/licenses/by/4.0/},
+ doi = {http://dx.doi.org/10.14279/depositonce-5888},
+ language = {en},
+ shorttitle = {Medical image analysis of gastric cancer in digital histopathology},
+ url = {https://depositonce.tu-berlin.de/handle/11303/6332},
+ urldate = {2020-03-04},
+ year = {2017}
+}
+```
+---
