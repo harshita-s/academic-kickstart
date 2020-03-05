@@ -63,5 +63,23 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/cai-sonoeyenet-2018/#cai-sonoeyenet-2018.bib
+  url: publication/cai-sonoeyenet-2018/#bibtex
+---
+
+---
+# BibTex
+```
+@inproceedings{cai_sonoeyenet_2018,
+title = {SonoEyeNet: Standardized fetal ultrasound plane detection informed by eye tracking},
+ author = {Cai, Y. and Sharma, H. and Chatelain, P. and Noble, J. A.},
+ booktitle = {2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018)},
+ doi = {10.1109/ISBI.2018.8363851},
+ note = {ISSN: 1945-8452},
+ pages = {1475--1478},
+ shorttitle = {SonoEyeNet},
+ year = {2018}
+}
+
+```
+
 ---
