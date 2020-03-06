@@ -24,7 +24,7 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/tayal-novel-2009/#bibtex
+  url: publication/cai-sonoeyenet-2018/#bibtex
   
 ---
 
