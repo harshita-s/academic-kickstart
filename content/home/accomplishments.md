@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-09-01"
   date_end = ""
-  description = "A portable accredited qualification in Higher Education teaching in the UK. The award is aligned to the __UK Professional Standards Framework (UKPSF)__ for Teaching and Supporting Learning in Higher Education, at Descriptor 1"
+  description = "A portable accredited qualification in Higher Education teaching in the UK. The award is aligned to the __UK Professional Standards Framework (UKPSF)__ for Teaching and Supporting Learning in Higher Education, at Descriptor 1."
 
 [[item]]
   organization = "Council for the Lindau Nobel Laureate Meetings/Foundation Lindau Nobel Laureate Meetings"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2016-03-01"
   date_end = ""
-  description = "SPIE Medical Imaging, San Diego, California, USA (2016)"
+  description = "Awarded at SPIE Medical Imaging, San Diego, California, USA (2016)."
   
 [[item]]
   organization = "SPIE society for optics and photonics"
@@ -57,5 +57,25 @@ date_format = "Jan 2006"
   date_start = "2016-03-01"
   date_end = ""
   description = "In recognition of the professional excellence of scientific paper at SPIE Medical Imaging, San Diego, California, USA (2016)."
+  
+[[item]]
+  organization = "Heidelberg Laureate Forum Foundation"
+  organization_url = "https://www.heidelberg-laureate-forum.org/"
+  title = "__Selection__ and __Grant__ to participate in 3rd Heidelberg Laureate Forum (HLF) in Heidelberg, Germany"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-08-01"
+  date_end = ""
+  description = "Only 200 most qualified young researchers are granted the opportunity to experience unique atmosphere of HLF."
+  
+[[item]]
+  organization = "DAAD: German Academic Exchange Service"
+  organization_url = "www.daad.org"
+  title = "Full-time DAAD PhD Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-06-01"
+  date_end = "2017-03-31"
+  description = ""
 
 +++
