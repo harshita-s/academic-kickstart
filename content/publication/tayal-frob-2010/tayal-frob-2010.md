@@ -4,7 +4,7 @@ title: "Enhancement of Medical Images Using a Novel Frobenius Norm Filtering Met
 
 authors:
 - Akash Tayal
-- Harshita **Sharma**
+- __Harshita Sharma__
 - Twinkle Bansal
 
 date: 2010-02-01
