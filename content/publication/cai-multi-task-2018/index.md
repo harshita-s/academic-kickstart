@@ -3,7 +3,7 @@ title: "Multi-task SonoEyeNet: Detection of Fetal Standardized Planes Assisted b
 date: 2018-01-01
 authors:
 - "Yifan Cai"
-- "Harshita **Sharma**" 
+- "__Harshita Sharma__" 
 - "Pierre Chatelain" 
 - "J. Alison Noble"
 publication_types: ["1"]
