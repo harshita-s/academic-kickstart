@@ -5,7 +5,7 @@ authors:
 - "Richard Droste"
 - "Pierre Chatelain"
 - "Lior Drukker"
-- "Harshita **Sharma**"
+- "__Harshita Sharma__"
 - Aris T. Papageorghiou 
 - J. Alison Noble
 
