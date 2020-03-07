@@ -5,7 +5,7 @@ date: 2010-12-01
 
 authors:
 - Akash Tayal
-- Harshita **Sharma**
+- __Harshita Sharma__
 - Twinkle Bansal
 
 abstract: "In this paper, we propose a novel method to build a textdependent, closed-set, Automatic Speaker Recognition System based on Mel Frequency Cepstral Coefficients, Vector Quantisation, and the combination of Discrete Hidden Markov Models and Minimum Euclidean Distance measure."
