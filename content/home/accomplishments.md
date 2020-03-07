@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "SPIE society for optics and photonics"
   organization_url = "https://www.spie.org"
-  title = "Robert F. Wagner All-Conference Best Student Paper Award Conference Finalist
+  title = "Robert F. Wagner All-Conference Best Student Paper Award Conference Finalist"
   url = "http://spie.org/about-spie/press-room/event-news-details/spie-medical-imaging-2016-news-and-photos"
   certificate_url = ""
   date_start = "2016-03-01"
