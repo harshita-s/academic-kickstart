@@ -2,7 +2,7 @@
 title: "Determining similarity in histological images using graph-theoretic description and matching methods for content-based image retrieval in medical diagnostics"
 date: 2012-01-01
 authors:
-- "Harshita **Sharma**"
+- "__Harshita Sharma__"
 - "Alexander Alekseychuk"
 - "Peter Leskovsky"
 - "Olaf Hellwich"
