@@ -2,7 +2,7 @@
 title: "Cell nuclei attributed relational graphs for efficient representation and classification of gastric cancer in digital histopathology"
 date: 2016-01-01
 authors: 
-- "Harshita **Sharma**"
+- "__Harshita Sharma__"
 - "Norman Zerbe" 
 - "Daniel Heim"
 - "Stephan Wienert"
