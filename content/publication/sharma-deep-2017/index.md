@@ -4,7 +4,7 @@ title: "Deep convolutional neural networks for automatic classification of gastr
 date: 2017-10-01
 
 authors: 
-- "Harshita **Sharma**"
+- "__Harshita Sharma__"
 - "Norman Zerbe"
 - "Iris Klempert"
 - "Olaf Hellwich"
