@@ -2,7 +2,7 @@
 title: "Spatio-Temporal Partitioning And Description Of Full-Length Routine Fetal Anomaly Ultrasound Scans"
 date: 2019-12-15
 authors: 
-- "Harshita **Sharma**"
+- "__Harshita Sharma__"
 - "Richard Droste"
 - "Pierre Chatelain"
 - "Lior Drukker"
