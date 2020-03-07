@@ -3,7 +3,7 @@ title: "Ultrasound Image Representation Learning by Modeling Sonographer Visual 
 authors:
 - Richard Droste
 - Yifan Cai
-- Harshita **Sharma**
+- __Harshita Sharma__
 - Pierre Chatelain
 - Lior Drukker
 - Aris T. Papageorghiou
