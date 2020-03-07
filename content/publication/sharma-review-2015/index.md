@@ -4,7 +4,7 @@ title: "A review of graph-based methods for image analysis in digital histopatho
 date: 2015-07-01
 
 authors: 
-- "Harshita **Sharma**"
+- "__Harshita Sharma__"
 - "Norman Zerbe"
 - "Sebastian Lohmann"
 - "Klaus Kayser"
