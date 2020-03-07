@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher • Image Scientist • Data Explorer • Engineer  
+role: **Postdoctoral Researcher • Image Scientist • Data Explorer • Engineer**
 
 # Organizations/Affiliations
 organizations:
