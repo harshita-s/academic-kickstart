@@ -26,17 +26,17 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-09-01"
   date_end = ""
-  description = "A portable accredited qualification in Higher Education teaching in the UK."
+  description = "A portable accredited qualification in Higher Education teaching in the UK. The award is aligned to the __UK Professional Standards Framework (UKPSF)__ for Teaching and Supporting Learning in Higher Education, at Descriptor 1"
 
 [[item]]
   organization = "Council for the Lindau Nobel Laureate Meetings/Foundation Lindau Nobel Laureate Meetings"
   organization_url = "https://www.lindau-nobel.org/"
-  title = "Selection and grant to participate in 68th Lindau Nobel Laureate Meeting in Lindau, Germany"
+  title = "__Selection__ and __Grant__ to participate in 68th Lindau Nobel Laureate Meeting in Lindau, Germany"
   url = "https://www.lindau-nobel.org/blog-young-scientists-report-about-lino18/"
   certificate_url = ""
   date_start = "2018-06-01"
   date_end = ""
-  description = ""
+  description = "Only 600 most qualified young scientists can be given the opportunity to enrich and share the unique atmosphere of the LNLMs.” Selected as one of __15 Mars Fellows under the Mars Fellows Programme__."
   
 [[item]]
   organization = "SPIE society for optics and photonics"
