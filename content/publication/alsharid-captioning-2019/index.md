@@ -3,7 +3,7 @@ title: "Captioning Ultrasound Images Automatically"
 date: 2019-11-15
 authors:
 - Mohammad Alsharid
-- Harshita **Sharma**
+- __Harshita Sharma__
 - Lior Drukker
 - Pierre Chatelain
 - Aris T. Papageorghiou
