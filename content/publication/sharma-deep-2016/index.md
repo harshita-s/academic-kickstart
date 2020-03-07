@@ -2,7 +2,7 @@
 title: "Deep Convolutional Neural Networks for Histological Image Analysis in Gastric Carcinoma Whole Slide Images"
 date:  2016-01-01
 authors: 
-- "Harshita **Sharma**"
+- "__Harshita Sharma__"
 - "Norman Zerbe"
 - "Iris Klempert"
 - "Olaf Hellwich"
