@@ -4,7 +4,7 @@ date: 2019-11-01
 authors:
 - "Richard Droste"
 - "Yifan Cai"
-- "Harshita **Sharma**"
+- "__Harshita Sharma__"
 - "Pierre Chatelain"
 - "Aris T. Papageorghiou"
 - "J. Alison Noble"
