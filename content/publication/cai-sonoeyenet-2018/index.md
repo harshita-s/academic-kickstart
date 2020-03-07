@@ -3,7 +3,7 @@ title: "SonoEyeNet: Standardized fetal ultrasound plane detection informed by ey
 date: 2018-01-01
 authors:
 - "Yifan Cai"
-- "Harshita **Sharma**"
+- "__Harshita Sharma__"
 - "Pierre Chatelain"
 - "J. Alison Noble"
 
