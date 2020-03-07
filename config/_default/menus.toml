@@ -34,7 +34,7 @@
   weight= 60
   
 [[main]]
-  name="News & Events"
+  name="News"
   url="#projects"
   weight=70
   
