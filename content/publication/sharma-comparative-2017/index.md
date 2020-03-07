@@ -2,7 +2,7 @@
 title: "A Comparative Study of Cell Nuclei Attributed Relational Graphs for Knowledge Description and Categorization in Histopathological Gastric Cancer Whole Slide Images"
 date: 2017-06-01
 authors: 
-- "Harshita **Sharma**"
+- "__Harshita Sharma__"
 - "Norman Zerbe"
 - "Christine Böger"
 - "Stephan Wienert"
