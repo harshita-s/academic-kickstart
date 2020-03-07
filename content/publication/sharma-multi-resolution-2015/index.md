@@ -2,7 +2,7 @@
 title: "A Multi-resolution Approach for Combining Visual Information using Nuclei Segmentation and Classification in Histopathological Images"
 date: 2015-03-01
 authors: 
-- "Harshita **Sharma**" 
+- "__Harshita Sharma__" 
 - "Norman Zerbe"
 - "Daniel Heim"
 - "Stephan Wienert"
