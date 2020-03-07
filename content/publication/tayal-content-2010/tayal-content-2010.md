@@ -3,7 +3,7 @@ title: "A Content-Based Medical Image Mining System for Knowledge Discovery in M
 
 authors:
 - Akash Tayal
-- Harshita **Sharma**
+- __Harshita Sharma__
 - Twinkle Bansal
 
 date: 2010-07-01
