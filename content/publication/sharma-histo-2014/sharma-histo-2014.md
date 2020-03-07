@@ -2,7 +2,7 @@
 title: "Histopathological Image Analysis for Determining Tissue Composition in Gastric Cancer"
 date: 2014-12-01
 authors:
-- Harshita **Sharma**
+- __Harshita Sharma__
 - Norman Zerbe
 - Daniel Heim 
 - Stephan Wienert
