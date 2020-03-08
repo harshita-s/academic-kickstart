@@ -77,5 +77,57 @@ date_format = "Jan 2006"
   date_start = "2013-06-01"
   date_end = "2017-03-31"
   description = ""
+  
+ [[item]]
+  organization = "IIT Roorkee"
+  organization_url = "www.iitr.ac.in"
+  title = "Late Smt. Uma Goyal Memorial Cash Prize Award for highest CGPA in M.Tech."
+  url = ""
+  certificate_url = ""
+  date_start = "2012-10-01"
+  date_end = ""
+  description = "1st Position in the Department of Electrical Engineering at IIT Roorkee." 
+  
+   [[item]]
+  organization = "DAAD: German Academic Exchange Service"
+  organization_url = "www.daad.org"
+  title = "DAAD-IIT Master Sandwich Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2011-09-01"
+  date_end = "2012-05-31"
+  description = "M.Tech. research and dissertation in Computer Vision at TU Berlin." 
+  
+  [[item]]
+  organization = "Ministry of Human Resource Development (MHRD), Government of India"
+  organization_url = ""
+  title = "M.Tech Scholarship (PG Scholarship)"
+  url = ""
+  certificate_url = ""
+  date_start = "2010-07-01"
+  date_end = "2012-06-30"
+  description = "Secured after qualifying Graduate Aptitude Test in Engineering (GATE) with 98.82 Percentile." 
+  
+  [[item]]
+  organization = "Indian Space Research Organization (ISRO)"
+  organization_url = ""
+  title = "Selection in ISRO Recruitment for Engineer-Scientist"
+  url = ""
+  certificate_url = ""
+  date_start = "2010-07-01"
+  date_end = ""
+  description = "Merit Rank 27 in All-India Indian Space Research Organization (ISRO) Recruitment Engineer-Scientist." 
+  
+[[item]]
+  organization = "Guru Gobind Singh Indraprastha University "
+  organization_url = "www.ggipu.ac.in"
+  title = "Cash Prize Awards for being the topper on the basis of Cumulative Performance Index"
+  url = ""
+  certificate_url = ""
+  date_start = "2008-07-01"
+  date_end = "2010-06-30"
+  description = "Topper (overall 1st Position) at IGIT Delhi" 
+  
+
 
 +++
