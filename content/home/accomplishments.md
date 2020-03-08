@@ -71,12 +71,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "DAAD: German Academic Exchange Service"
   organization_url = "www.daad.org"
-  title = "Full-time DAAD PhD Scholarship"
+  title = "DAAD PhD Scholarship"
   url = ""
   certificate_url = ""
   date_start = "2013-06-01"
   date_end = "2017-03-31"
-  description = ""
+  description = "Full-time scholarship for Ph.D. research in Computer Vision at TU Berlin."
   
  [[item]]
   organization = "IIT Roorkee"
@@ -119,7 +119,7 @@ date_format = "Jan 2006"
   description = "Merit Rank 27 in All-India Indian Space Research Organization (ISRO) Recruitment Engineer-Scientist." 
   
 [[item]]
-  organization = "Guru Gobind Singh Indraprastha University "
+  organization = "Guru Gobind Singh Indraprastha University"
   organization_url = "www.ggipu.ac.in"
   title = "Cash Prize Awards for being the topper on the basis of Cumulative Performance Index"
   url = ""
@@ -128,6 +128,34 @@ date_format = "Jan 2006"
   date_end = "2010-06-30"
   description = "Topper (overall 1st Position) at IGIT Delhi" 
   
-
-
+  [[item]]
+  organization = "Defense Research and Development Organization (DRDO)"
+  organization_url = ""
+  title = "Grade-A Excellent in research training project"
+  url = ""
+  certificate_url = ""
+  date_start = "2009-07-31"
+  date_end = ""
+  description = "Research project on speaker recognition" 
+  
+  [[item]]
+  organization = "Delhi Public School, Vasant Kunj"
+  organization_url = ""
+  title = "Gold Medal"
+  url = ""
+  certificate_url = ""
+  date_start = "1999-04-01"
+  date_end = "2005-03-31"
+  description = "Excellence in Academics for seven successive years" 
+  
+     
+[[item]]
+  organization = "Balkan-ji-Bari International"
+  organization_url = ""
+  title = "3rd position in *Rashtriya Kavita Award* National poetry writing competition"
+  url = ""
+  certificate_url = ""
+  date_start = "1998-03-01"
+  date_end = ""
+  description = "Excellence in Academics for seven successive years" 
 +++
