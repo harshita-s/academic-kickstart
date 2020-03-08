@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-06-01"
   date_end = ""
-  description = ""Only __600 most qualified__ young scientists can be given the opportunity to enrich and share the unique atmosphere of the LNLMs." Selected as one of __15 Mars Fellows under the Mars Fellows Programme__."
+  description = "*Only __600 most qualified__ young scientists can be given the opportunity to enrich and share the unique atmosphere of the LNLMs.* Selected as one of __15 Mars Fellows under the Mars Fellows Programme__."
   
 [[item]]
   organization = "SPIE society for optics and photonics"
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-08-01"
   date_end = ""
-  description = ""Only __200 most qualified__ young researchers are granted the opportunity to experience unique atmosphere of HLF.""
+  description = "*Only __200 most qualified__ young researchers are granted the opportunity to experience unique atmosphere of HLF.*"
   
 [[item]]
   organization = "DAAD: German Academic Exchange Service"
