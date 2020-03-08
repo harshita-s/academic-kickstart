@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-06-01"
   date_end = ""
-  description = "Only 600 most qualified young scientists can be given the opportunity to enrich and share the unique atmosphere of the LNLMs.” Selected as one of __15 Mars Fellows under the Mars Fellows Programme__."
+  description = ""Only __600 most qualified__ young scientists can be given the opportunity to enrich and share the unique atmosphere of the LNLMs." Selected as one of __15 Mars Fellows under the Mars Fellows Programme__."
   
 [[item]]
   organization = "SPIE society for optics and photonics"
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2016-03-01"
   date_end = ""
-  description = "In recognition of the professional excellence of scientific paper at SPIE Medical Imaging, San Diego, California, USA (2016)."
+  description = "In recognition of the __professional excellence of scientific paper__ at SPIE Medical Imaging, San Diego, California, USA (2016)."
   
 [[item]]
   organization = "Heidelberg Laureate Forum Foundation"
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-08-01"
   date_end = ""
-  description = "Only 200 most qualified young researchers are granted the opportunity to experience unique atmosphere of HLF."
+  description = ""Only __200 most qualified__ young researchers are granted the opportunity to experience unique atmosphere of HLF.""
   
 [[item]]
   organization = "DAAD: German Academic Exchange Service"
@@ -76,7 +76,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2013-06-01"
   date_end = "2017-03-31"
-  description = "Full-time scholarship for Ph.D. research in Computer Vision at TU Berlin."
+  description = "__Full-time scholarship__ for Ph.D. research in Computer Vision at TU Berlin."
   
  [[item]]
   organization = "IIT Roorkee"
@@ -86,7 +86,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2012-10-01"
   date_end = ""
-  description = "1st Position in the Department of Electrical Engineering at IIT Roorkee." 
+  description = "__1st Position__ in the Department of Electrical Engineering at IIT Roorkee." 
   
    [[item]]
   organization = "DAAD: German Academic Exchange Service"
@@ -106,7 +106,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2010-07-01"
   date_end = "2012-06-30"
-  description = "Secured after qualifying Graduate Aptitude Test in Engineering (GATE) with 98.82 Percentile." 
+  description = "Secured after qualifying Graduate Aptitude Test in Engineering (GATE) with __98.82 Percentile__." 
   
   [[item]]
   organization = "Indian Space Research Organization (ISRO)"
@@ -116,7 +116,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2010-07-01"
   date_end = ""
-  description = "Merit Rank 27 in All-India Indian Space Research Organization (ISRO) Recruitment Engineer-Scientist." 
+  description = "__Merit Rank 27__ in All-India ISRO Recruitment for Engineer-Scientist." 
   
 [[item]]
   organization = "Guru Gobind Singh Indraprastha University"
@@ -126,7 +126,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2008-07-01"
   date_end = "2010-06-30"
-  description = "Topper (overall 1st Position) at IGIT Delhi" 
+  description = "__Topper (overall 1st Position)__ at IGIT, GGSIPU Delhi." 
   
   [[item]]
   organization = "Defense Research and Development Organization (DRDO)"
@@ -136,7 +136,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2009-07-31"
   date_end = ""
-  description = "Research project on speaker recognition" 
+  description = "Research project on speaker recognition." 
   
   [[item]]
   organization = "Delhi Public School, Vasant Kunj"
@@ -146,16 +146,17 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "1999-04-01"
   date_end = "2005-03-31"
-  description = "Excellence in Academics for seven successive years" 
+  description = "__Excellence in Academics__ for seven successive years." 
   
      
 [[item]]
   organization = "Balkan-ji-Bari International"
   organization_url = ""
-  title = "3rd position in *Rashtriya Kavita Award* National poetry writing competition"
+  title = " *Rashtriya Kavita Award*-National poetry writing competition"
   url = ""
   certificate_url = ""
   date_start = "1998-03-01"
   date_end = ""
-  description = "Excellence in Academics for seven successive years" 
+  description = "3rd position in __national poetry writing competition__." 
+  
 +++
