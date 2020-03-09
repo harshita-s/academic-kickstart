@@ -6,15 +6,13 @@ weight = 70  # Order that this section will appear.
 
 +++
 
-* __April 2019__ | Harshita presented her Postdoctoral research in __IEEE ISBI 2019__ at Venice, Italy!
+* __April 2019__ | Harshita presented her Postdoctoral research in __IEEE ISBI 2019__ at Venice, Italy.
 
 * __March 2019__ | Harshita presented her research at the __Oxbridge Women in Computer Science conference__ at Cambridge, UK.
 
 * __July 2018__ | Harshita's PhD research on gastric cancer was mentioned in the blog article __[Tackling the Silent Crisis in Cancer Care](https://www.lindau-nobel.org/blog-tackling-the-silent-crisis-in-cancer-care-with-innovation/)__ and at __[Lindau Alumni Network](https://www.lindau-alumni-network.org/news/91410)__.
 
 * __June 2018__ | Harshita participated in the __68th Lindau Nobel Laureate Meeting 2018__ as a __Mars Fellow__ at Lindau, Germany. She has shared her experience [here](https://www.lindau-nobel.org/blog-young-scientists-report-about-lino18/)!
-
-* __June 2018__ | Harshita's career path as a [poster](http://www.eng.ox.ac.uk/about/news/wie-profiles/Harshita_Sharma.pdf/view)! Celebrating the __Women in Engineering Week 2018__ in the Department of Engineering Science at the University of Oxford.
 
 * __April 2018__ | Harshita featured in the __[Women in Research Blog](https://www.lindau-nobel.org/blog-women-in-research-at-lino18-harshita-sharma-from-india/)__ by Lindau Nobel Laureate Meeting. Can also be viewed [here](https://womeninresearchblog.wordpress.com/2018/06/20/harshita-india/).
 
