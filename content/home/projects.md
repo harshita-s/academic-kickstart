@@ -25,7 +25,7 @@ weight = 70  # Order that this section will appear.
 
 * __March 2018__ | Harshita's interview (invited feature) by __Durtti.com-The Artificial Intelligence Group__: [Research Scientist Dr. Harshita Sharma Talks To Durtti About The Future Of Biomedical Imaging](http://www.durtti.com/research-scientist-dr-harshita-sharma-talks-durtti-future-biomedical-imaging/)
 
-* __April 2017__ | Harshita defended her PhD thesis at TU Berlin and received the __Dr.-Ing.__ degree : smile :.
+* __April 2017__ | Harshita defended her PhD thesis at TU Berlin and received the __Dr.-Ing.__ degree :smile:.
 
 * __March 2017__ | Harshita gave an __invited talk__ *Medical Image Analysis using Modern Description and Learning Techniques* at NIEC, Delhi.
 
