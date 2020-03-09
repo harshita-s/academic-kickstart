@@ -3,9 +3,14 @@ title = "News and Events"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
+
+[[item]]
+  title = ""
+  content = ""
+  align = "left"  # Choose `center`, `left`, or `right`.
+  overlay_img = "static/img/1.jpg"  
 +++
 
-# {{< figure src="/img/1.jpg" title="" lightbox="true" >}} 
 * __April 2019__ Harshita presented her Postdoctoral research in __IEEE ISBI 2019__ at Venice, Italy!
 
 * __March 2019__ Harshita presented her research at the __Oxbridge Women in Computer Science conference__ at Cambridge, UK.
