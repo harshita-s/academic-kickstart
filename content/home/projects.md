@@ -7,8 +7,6 @@ weight = 70  # Order that this section will appear.
 +++
 {{< figure library="true" src="1.jpg" title="A caption" lightbox="true" >}}
 
-![Example image](/static/img/1.jpg)
-
 * __April 2019__ | Harshita presented her Postdoctoral research in __IEEE ISBI 2019__ at Venice, Italy!
 
 * __March 2019__ | Harshita presented her research at the __Oxbridge Women in Computer Science conference__ at Cambridge, UK.
@@ -27,7 +25,7 @@ weight = 70  # Order that this section will appear.
 
 * __March 2018__ | Harshita's interview (invited feature) by __Durtti.com-The Artificial Intelligence Group__: [Research Scientist Dr. Harshita Sharma Talks To Durtti About The Future Of Biomedical Imaging](http://www.durtti.com/research-scientist-dr-harshita-sharma-talks-durtti-future-biomedical-imaging/)
 
-* __April 2017__ | Harshita defended her PhD thesis at TU Berlin and received the __Dr.-Ing.__ degree.
+* __April 2017__ | Harshita defended her PhD thesis at TU Berlin and received the __Dr.-Ing.__ degree : smile :.
 
 * __March 2017__ | Harshita gave an __invited talk__ *Medical Image Analysis using Modern Description and Learning Techniques* at NIEC, Delhi.
 
