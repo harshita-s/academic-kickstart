@@ -6,6 +6,8 @@ weight = 70  # Order that this section will appear.
 
 +++
 
+{{< figure library="true" src="Collage.jpg" title="" lightbox="true" >}}
+
 * __April 2019__ | Harshita presented her Postdoctoral research in __IEEE ISBI 2019__ at Venice, Italy.
 
 * __March 2019__ | Harshita presented her research at the __Oxbridge Women in Computer Science conference__ at Cambridge, UK.
