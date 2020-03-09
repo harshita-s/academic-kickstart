@@ -5,7 +5,10 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 +++
+{{< figure library="true" src="1.jpg" title="A caption" lightbox="true" >}}
+
 ![Example image](/static/img/1.jpg)
+
 * __April 2019__ Harshita presented her Postdoctoral research in __IEEE ISBI 2019__ at Venice, Italy!
 
 * __March 2019__ Harshita presented her research at the __Oxbridge Women in Computer Science conference__ at Cambridge, UK.
