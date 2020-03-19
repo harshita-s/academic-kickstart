@@ -16,7 +16,7 @@ abstract: "This paper describes a novel graph-based method for efficient represe
 
 featured: true
 
-publication: "*SPIE Medical Imaging 2016*. **Best Student Paper Award Finalist and Best Poster Award**."
+publication: "*SPIE Medical Imaging 2016*. **Best Student Paper Award Finalist and Best Poster Award**"
 
 links:
 - name: DOI
