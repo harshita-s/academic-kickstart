@@ -15,7 +15,7 @@ abstract: "For visual tasks like ultrasound (US) scanning, experts direct their 
 
 featured: false
 
-publication: "*Medical Image Understanding and Analysis (MIUA 2019)*"
+publication: "*Medical Image Understanding and Analysis (MIUA 2019)*. **Best Paper Award**"
 
 tags:
 - "Convolutional neural networks"
