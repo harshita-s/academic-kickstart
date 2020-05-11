@@ -7,7 +7,7 @@ weight = 50  # Order that this section will appear.
 
 ## Journal Reviewer
 
-IEEE TMI, PLOS ONE, IEEE JBHI, IEEE RA-L, Elsevier’s CMIG, Elsevier’s AIIM, Elsevier’s CPMB, Springer’s IJCARS, MDPI J Imaging, MDPI Applied Science, Biomedical Optics Express.
+IEEE TMI, PLOS ONE, IEEE JBHI, IEEE RA-L, Elsevier’s CMIG, Elsevier’s AIIM, Elsevier’s CPMB, Ultrasonic Imaging, Springer’s IJCARS, MDPI J Imaging, MDPI Applied Science, Biomedical Optics Express.
 
 ## Conference Reviewer
 
