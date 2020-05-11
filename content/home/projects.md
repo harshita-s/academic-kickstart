@@ -10,7 +10,7 @@ weight = 70  # Order that this section will appear.
 
 * __April 2019__ | Harshita presented her Postdoctoral research in __IEEE ISBI 2019__ at Venice, Italy.
 
-* __March 2019__ | Harshita presented her research at the __Oxbridge Women in Computer Science Conference 2018__ at Cambridge, UK.
+* __March 2018__ | Harshita presented her research at the __Oxbridge Women in Computer Science Conference 2018__ at Cambridge, UK.
 
 * __July 2018__ | Harshita's PhD research on gastric cancer was mentioned in the blog article __[Tackling the Silent Crisis in Cancer Care](https://www.lindau-nobel.org/blog-tackling-the-silent-crisis-in-cancer-care-with-innovation/)__ and at __[Lindau Alumni Network](https://www.lindau-alumni-network.org/news/91410)__.
 
@@ -30,7 +30,7 @@ weight = 70  # Order that this section will appear.
 
 * __October 2016__ | Harshita presented her PhD research at the workshop __Computational Life Sciences @ Bayer__ in Berlin, Germany.
 
-* __May 2016__ | Harshita's *deep learning in digital pathology* talk at __ECDP 2016__ in Berlin was mentioend in the __[MicroDimensions Blog Article](https://micro-dimensions.com/blog/2016/7/28/berlin-calling-what-was-going-on-at-ecdp-2016)__. 
+* __May 2016__ | Harshita's *deep learning in digital pathology* talk at __ECDP 2016__ in Berlin was mentioned in the __[MicroDimensions Blog Article](https://micro-dimensions.com/blog/2016/7/28/berlin-calling-what-was-going-on-at-ecdp-2016)__. 
 
 * __March 2016__ | Harshita received student paper and poster awards at the __SPIE Medical Imaging Symposium 2016__ in San Diego, United States. Find out more [here](http://spie.org/about-spie/press-room/event-news-details/spie-medical-imaging-2016-news-and-photos)!
 
