@@ -15,7 +15,7 @@ abstract: "Anatomical landmarks are a crucial prerequisite for many medical imag
 
 featured: false
 
-publication: "*IEEE International Symposium on Biomedical Imaging (ISBI) 2020*. **Best Paper Awards Runner Up**"
+publication: "*2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI)*, Iowa City, IA, USA, 2020, pp. 1711-1714. **Best Paper Awards Runner Up**"
 
 tags:
 - Computer Science 
@@ -30,6 +30,10 @@ links:
   url: https://rdroste.com/files/droste-et-al_visually-salient-landmarks_ISBI-2020.pdf
   icon_pack: fas
   icon: file-pdf
+- name: DOI
+  url: https://doi.org/10.1109/ISBI45749.2020.9098505
+  icon_pack: ai
+  icon: doi
 - name: arXiv
   url: https://arxiv.org/abs/2001.08188
   icon_pack: ai
@@ -38,11 +42,14 @@ links:
   url: https://ora.ox.ac.uk/objects/uuid:ea5a4c52-85ec-4317-aeba-de8a61953722
   icon_pack: ai
   icon: open-access
+- name: IEEE
+  url: https://ieeexplore.ieee.org/abstract/document/9098505
+  icon_pack: ai
+  icon: ieee
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
   url: publication/droste-discovering-2020/#bibtex
-
 ---
 
 ---
