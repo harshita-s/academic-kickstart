@@ -7,8 +7,11 @@ weight = 70  # Order that this section will appear.
 +++
 
 {{< figure library="true" src="Collage.jpg" title="" lightbox="true" >}}
+* __April 2020__ | A co-authored paper from the PULSE project *"Discovering Salient Anatomical Landmarks by Predicting Human Gaze"* has won the 2nd runner up for Best Paper Award at ISBI 2020! News items can be found [here](http://www.ibme.ox.ac.uk/news-events/news/dphil-student-gains-2nd-place-in-ieee-isbi-2020-best-paper-award) and [here](https://eng.ox.ac.uk/news/dphil-student-gains-2nd-place-in-ieee-isbi-2020-best-paper-award/).
 
-* __April 2019__ | Harshita presented her Postdoctoral research in __IEEE ISBI 2019__ at Venice, Italy.
+* __July 2019__ | A co-authored paper from the PULSE project *"Towards Capturing Sonographic Experience: Cognition-Inspired Ultrasound Video Saliency Prediction"* has won the __Best Paper Award__ at MIUA 2019.
+
+* __April 2019__ | Harshita presented her Postdoctoral research paper *"Spatio-temporal partitioning and description of full-length routine fetal anomaly ultrasound scans"* in __IEEE ISBI 2019__ at Venice, Italy.
 
 * __March 2018__ | Harshita presented her research at the __Oxbridge Women in Computer Science Conference 2018__ at Cambridge, UK.
 
