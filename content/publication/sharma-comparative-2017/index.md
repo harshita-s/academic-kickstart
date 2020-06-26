@@ -57,6 +57,10 @@ tags:
 doi: ""
 
 links:
+- name: PDF
+  url: files/AComparativeStudy_Acceptedversion_2017_1.pdf
+  icon_pack: fas
+  icon: file-pdf
 - name: DOI
   url: https://doi.org/10.1109/CBMS.2017.25
   icon_pack: ai
