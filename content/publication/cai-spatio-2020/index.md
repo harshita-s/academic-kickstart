@@ -2,13 +2,13 @@
 title: "Spatio-Temporal Visual Attention Modelling of Standard Biometry Plane-Finding Navigation"
 date: 2020-07-01
 authors:
-- Yifan Cai
-- Richard Droste
-- __Harshita Sharma__
-- Pierre Chatelain
-- Lior Drukker
-- Aris T Papageorghiou
-- J Alison Noble
+- "Yifan Cai"
+- "Richard Droste"
+- "__Harshita Sharma__"
+- "Pierre Chatelain"
+- "Lior Drukker"
+- "Aris T. Papageorghiou"
+- "J. Alison Noble"
 
 publication_types:  ["2"]
 
@@ -17,6 +17,13 @@ abstract: "We present a novel multi-task neural network called Temporal SonoEyeN
 featured: false
 
 publication: "In Press, *Medical Image Analysis*"
+
+tags:
+- Fetal ultrasound
+- Gaze tracking
+- Multi-task learning
+- Saliency prediction
+- Standard plane detection
 
 links:
 - name: DOI
@@ -28,6 +35,8 @@ links:
   icon: quote-right
   url: publication/cai-spatio-2020/#bibtex
   
+---
+
 ---
 
 # BibTex
@@ -43,3 +52,4 @@ links:
 }
 
 ```
+---
