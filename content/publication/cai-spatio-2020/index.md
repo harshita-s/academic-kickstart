@@ -16,7 +16,7 @@ abstract: "We present a novel multi-task neural network called Temporal SonoEyeN
 
 featured: false
 
-publication: "In Press, *Medical Image Analysis*"
+publication: "*Medical Image Analysis*"
 
 tags:
 - Fetal ultrasound
