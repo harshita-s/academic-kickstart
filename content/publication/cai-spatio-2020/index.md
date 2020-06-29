@@ -10,7 +10,7 @@ authors:
 - "Aris T. Papageorghiou"
 - "J. Alison Noble"
 
-publication_types: ["1"]
+publication_types: ["2"]
 
 featured: true
 
