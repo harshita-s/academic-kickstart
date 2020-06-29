@@ -1,85 +1,53 @@
 ---
-title : "Evaluation of Gaze Tracking Calibration for Longitudinal Biomedical Imaging Studies"
-date : 2020-01-01
+title : "Spatio-Temporal Visual Attention Modelling of Standard Biometry Plane-Finding Navigation"
+date : 2020-07-01
 authors:
-- Pierre Chatelain
-- __Harshita Sharma__
-- Lior Drukker
-- Aris T. Papageorghiou 
-- J. Alison Noble
+- "Yifan Cai"
+- "Richard Droste"
+- "__Harshita Sharma__"
+- "Pierre Chatelain"
+- "Lior Drukker"
+- "Aris T. Papageorghiou"
+- "J. Alison Noble"
 
-publication_types: ["2"]
+publication_types: ["1"]
 
 featured: true
 
-publication: "*IEEE Transactions on Cybernetics*"
+publication: "*Medical Image Analysis*"
 
-abstract: "Gaze tracking is a promising technology for studying the visual perception of clinicians during image-based medical exams. It could be used in longitudinal studies to analyze their perceptive process, explore human-machine interactions, and develop innovative computer-aided imaging systems. However, using a remote eye tracker in an unconstrained environment and over time periods of weeks requires a certain guarantee of performance to ensure that collected gaze data are fit for purpose. We report the results of evaluating eye tracking calibration for longitudinal studies. First, we tested the performance of an eye tracker on a cohort of 13 users over a period of one month. For each participant, the eye tracker was calibrated during the first session. The participants were asked to sit in front of a monitor equipped with the eye tracker, but their position was not constrained. Second, we tested the performance of the eye tracker on sonographers positioned in front of a cart-based ultrasound scanner. Experimental results show a decrease of accuracy between calibration and later testing of 0.30 degree and a further degradation over time at a rate of 0.13 degree. month-1. The overall median accuracy was 1.00 degree (50.9 pixels) and the overall median precision was 0.16 degree (8.3 pixels). The results from the ultrasonography setting show a decrease of accuracy of 0.16 degree between calibration and later testing. This slow degradation of gaze tracking accuracy could impact the data quality in long-term studies. Therefore, the results we present here can help in planning such long-term gaze tracking studies."
+abstract: "We present a novel multi-task neural network called Temporal SonoEyeNet (TSEN) with a primary task to describe the visual navigation process of sonographers by learning to generate visual attention maps of ultrasound images around standard biometry planes of the fetal abdomen, head (trans-ventricular plane) and femur. TSEN has three components: a feature extractor, a temporal attention module (TAM), and an auxiliary video classification module (VCM). A soft dynamic time warping (sDTW) loss function is used to improve visual attention modelling. Variants of the model are trained on a dataset of 280 video clips, each containing one of the three biometry planes and lasting 3-7 seconds, with corresponding real-time recorded gaze tracking data of an experienced sonographer. We report the performances of the different variants of TSEN for visual attention prediction at standard biometry plane detection. The best model performance is achieved using bi-directional convolutional long-short term memory (biCLSTM) in both TAM and VCM, and it outperforms a previous spatial model on all static and dynamic saliency metrics. As an auxiliary task to validate the clinical relevance of the visual attention modelling, the predicted visual attention maps were used to guide standard biometry plane detection in consecutive US video frames. All spatio-temporal TSEN models achieve higher scores compared to a spatial-only baseline; the best performing TSEN model achieves F1 scores on these standard biometry planes of 83.7%, 89.9% and 81.1%, respectively."
 
 links:
 - name: DOI
-  url: https://doi.org/10.1109/TCYB.2018.2866274
+  url: https://doi.org/10.1016/j.media.2020.101762
   icon_pack: ai
   icon: doi
-- name: ORA
-  url: https://ora.ox.ac.uk/objects/uuid:c750b5ce-03a0-4e7b-bdd3-140e65c4bcad
-  icon_pack: ai
-  icon: open-access
-- name: IEEE
-  url: https://ieeexplore.ieee.org/abstract/document/8454741
-  icon_pack: ai
-  icon: ieee
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/chatelain-evaluation-2020/#bibtex
+  url: publication/cai-spatio-2020/#bibtex 
 
 tags:
-- "Accuracy" 
-- "biomedical imaging" 
-- "Biomedical imaging"
-- "Biomedical monitoring"
-- "biomedical ultrasonics"
-- "calibration"
-- "Calibration"
-- "cart-based ultrasound scanner"
-- "data analysis"
-- "eye tracking calibration"
-- "gaze tracking"
-- "Gaze tracking"
-- "gaze tracking calibration"
-- "human-machine interactions" 
-- "image-based medical exams"
-- "innovative computer-aided imaging systems"
-- "long-term gaze tracking studies"
-- "longitudinal biomedical imaging studies"
-- "medical image processing"
-- "Monitoring"
-- "perceptive process"
-- "remote eye tracker" 
-- "testing" 
-- "Ultrasonic imaging"
-- "ultrasonography"
-- "ultrasonography setting" 
-- "visual perception"
-- "Visualization"
-
+- Fetal ultrasound
+- Gaze tracking
+- Multi-task learning
+- Saliency prediction
+- Standard plane detection
 ---
 
 # BibTex
 
 ```
-@article{chatelain_evaluation_2020,
- title = {Evaluation of Gaze Tracking Calibration for Longitudinal Biomedical Imaging Studies},
- author = {Chatelain, Pierre and Sharma, Harshita and Drukker, Lior and Papageorghiou, Aris T. and Noble, J. Alison},
- doi = {10.1109/TCYB.2018.2866274},
- issn = {2168-2275},
- journal = {IEEE Transactions on Cybernetics},
- number = {1},
- pages = {153--163},
- volume = {50},
- year = {2020}
+@article{cai2020spatio,
+  title={Spatio-Temporal Visual Attention Modelling of Standard Biometry Plane-Finding Navigation},
+  author={Cai, Yifan and Droste, Richard and Sharma, Harshita and Chatelain, Pierre and Drukker, Lior and Papageorghiou, Aris T and Noble, J Alison},
+  journal={Medical Image Analysis},
+  pages={101762},
+  year={2020},
+  publisher={Elsevier}
 }
+
 
 ```
 
