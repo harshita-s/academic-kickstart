@@ -42,12 +42,16 @@ links:
 
 ```
 @article{cai2020spatio,
-  title={Spatio-Temporal Visual Attention Modelling of Standard Biometry Plane-Finding Navigation},
-  author={Cai, Yifan and Droste, Richard and Sharma, Harshita and Chatelain, Pierre and Drukker, Lior and Papageorghiou, Aris T and Noble, J Alison},
-  journal={Medical Image Analysis},
-  pages={101762},
-  year={2020},
-  publisher={Elsevier}
+  title = "Spatio-temporal visual attention modelling of standard biometry plane-finding navigation",
+journal = "Medical Image Analysis",
+volume = "65",
+pages = "101762",
+year = "2020",
+issn = "1361-8415",
+doi = "https://doi.org/10.1016/j.media.2020.101762",
+url = "http://www.sciencedirect.com/science/article/pii/S1361841520301262",
+author = "Yifan Cai and Richard Droste and Harshita Sharma and Pierre Chatelain and Lior Drukker and Aris T. Papageorghiou and J. Alison Noble",
+keywords = "Fetal ultrasound, Gaze tracking, Multi-task learning, Saliency prediction, Standard plane detection"
 }
 
 ```
