@@ -2,8 +2,8 @@
 title: "Efficient Ultrasound Image Analysis Models with Sonographer Gaze Assisted Distillation"
 date: 2019-01-01
 authors: 
-- "Arijit Patra"
-- "Yifan Cai"
+- "Arijit Patra*"
+- "Yifan Cai*"
 - "Pierre Chatelain"
 - "__Harshita Sharma__"
 - "Lior Drukker"
@@ -16,7 +16,7 @@ abstract: "Recent automated medical image analysis methods have attained state-o
 
 featured: false
 
-publication: "*Medical Image Computing and Computer Assisted Intervention – MICCAI 2019*"
+publication: "(AP and YC contributed equally.)*Medical Image Computing and Computer Assisted Intervention – MICCAI 2019*"
 
 tags:
 - "Expert knowledge"
