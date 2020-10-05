@@ -15,7 +15,7 @@ abstract: "We present a novel curriculum learning approach to train a natural la
 
 featured: false
 
-publication: "(*MA and RE contributed equally.)* Medical Ultrasound, and Preterm, Perinatal and Paediatric Image Analysis. ASMUS 2020, PIPPI 2020.**Best Presentation Award**"
+publication: "(MA and RE contributed equally.) *Medical Ultrasound, and Preterm, Perinatal and Paediatric Image Analysis. ASMUS 2020, PIPPI 2020.* **Best Presentation Award**"
 
 links:
 - name: DOI
