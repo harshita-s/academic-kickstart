@@ -18,7 +18,7 @@ featured: false
 
 publication: "*Medical Ultrasound, and Preterm, Perinatal and Paediatric Image Analysis. ASMUS 2020, PIPPI 2020. Workshop at the Medical Image Computing and Computer Assisted Intervention (MICCAI 2020).*
 
-tags:
+tags: 
 - Operator skill 
 - Probe motion 
 - Fetal ultrasound 
