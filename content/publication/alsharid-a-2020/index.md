@@ -17,6 +17,11 @@ featured: false
 
 publication: "(MA and RE contributed equally.) *Medical Ultrasound, and Preterm, Perinatal and Paediatric Image Analysis. ASMUS 2020, PIPPI 2020.* **Best Presentation Award**"
 
+tags:
+- Image captioning 
+- Curriculum learning 
+- Fetal ultrasound 
+
 links:
 - name: DOI
   url: https://doi.org/10.1007/978-3-030-60334-2_8
