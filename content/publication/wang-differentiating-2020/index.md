@@ -12,7 +12,7 @@ authors:
 
 publication_types: ["1"]
 
-publication: "*Medical Ultrasound, and Preterm, Perinatal and Paediatric Image Analysis. ASMUS 2020, PIPPI 2020. Workshop at the Medical Image Computing and Computer Assisted Intervention (MICCAI 2020).*"
+publication: "*Medical Ultrasound, and Preterm, Perinatal and Paediatric Image Analysis. ASMUS 2020, PIPPI 2020. Workshop at the Medical Image Computing and Computer Assisted Intervention (MICCAI 2020)*"
 
 abstract: "In this paper, we consider differentiating operator skill during fetal ultrasound scanning using probe motion tracking. We present a novel convolutional neural network-based deep learning framework to model ultrasound probe motion in order to classify operator skill levels, that is invariant to operators’ personal scanning styles. In this study, probe motion data during routine second-trimester fetal ultrasound scanning was acquired by operators of known experience levels (2 newly-qualified operators and 10 expert operators). The results demonstrate that the proposed model can successfully learn underlying probe motion features that distinguish operator skill levels during routine fetal ultrasound with 95% accuracy."
 
