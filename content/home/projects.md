@@ -7,9 +7,9 @@ weight = 70  # Order that this section will appear.
 +++
 
 {{< figure library="true" src="Collage.jpg" title="" lightbox="true" >}}
-*__October 2020__ | A co-authored paper from the PULSE project *"A Curriculum Learning Based Approach to Captioning Ultrasound Images"* is the __Best Presentation Winner__ at Advances in Simplifying Medical UltraSound-ASMUS 2020 Workshop at MICCAI 2020!
+* __October 2020__ | A co-authored paper from the PULSE project *"A Curriculum Learning Based Approach to Captioning Ultrasound Images"* is the __Best Presentation Winner__ at Advances in Simplifying Medical UltraSound-ASMUS 2020 Workshop at MICCAI 2020!
 
-*__April 2020__ | A co-authored paper from the PULSE project *"Discovering Salient Anatomical Landmarks by Predicting Human Gaze"* has won the __2nd runner up for Best Paper Award__ at ISBI 2020! News items can be found [here](http://www.ibme.ox.ac.uk/news-events/news/dphil-student-gains-2nd-place-in-ieee-isbi-2020-best-paper-award) and [here](https://eng.ox.ac.uk/news/dphil-student-gains-2nd-place-in-ieee-isbi-2020-best-paper-award/).
+* __April 2020__ | A co-authored paper from the PULSE project *"Discovering Salient Anatomical Landmarks by Predicting Human Gaze"* has won the __2nd runner up for Best Paper Award__ at ISBI 2020! News items can be found [here](http://www.ibme.ox.ac.uk/news-events/news/dphil-student-gains-2nd-place-in-ieee-isbi-2020-best-paper-award) and [here](https://eng.ox.ac.uk/news/dphil-student-gains-2nd-place-in-ieee-isbi-2020-best-paper-award/).
 
 * __July 2019__ | A co-authored paper from the PULSE project *"Towards Capturing Sonographic Experience: Cognition-Inspired Ultrasound Video Saliency Prediction"* has won the __Best Paper Award__ at MIUA 2019.
 
