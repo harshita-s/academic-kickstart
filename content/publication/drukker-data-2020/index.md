@@ -12,7 +12,7 @@ publication_types: ["1"]
 
 featured: true
 
-publication: "(LD and HS contributed equally.) *Ultrasound Obstet Gynecol, 56: 31-31.*"
+publication: "(LD and HS contributed equally.) *Ultrasound Obstet Gynecol, 56: 31-31*"
 
 tags:
 - Fetal ultrasound
