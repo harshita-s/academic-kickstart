@@ -23,11 +23,11 @@ tags:
 
 links:
 - name: DOI
-  url:  https://doi.org/10.1002/uog.22266
+  url:  https://doi.org/10.1002/uog.22275
   icon_pack: ai
   icon: doi
 - name: Wiley
-  url: https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.22266
+  url: https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.22275
   icon_pack: fas
   icon: link
 - name: BibTeX
