@@ -3,7 +3,7 @@ title : "OC10.11: The data science of obstetric ultrasound: automatic analysis o
 date : 2020-10-16
 authors:
 - "Lior Drukker*"
-- "__Harshita Sharma*__"
+- "__Harshita Sharma__*"
 - "Richard Droste"
 - "J. Alison Noble"
 - "Aris T. Papageorghiou"
@@ -28,8 +28,8 @@ links:
   icon: doi
 - name: Wiley
   url: https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.22266
-  icon_pack: ai
-  icon: doi
+  icon_pack: fas
+  icon: link
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
