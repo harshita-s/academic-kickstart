@@ -32,8 +32,8 @@ links:
   icon: doi
 - name: Elsevier
   url: https://www.sciencedirect.com/science/article/pii/S1361841520301262?via%3Dihub
-  icon_pack: ai
-  icon: elsevier
+  icon_pack: fas
+  icon: link
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
