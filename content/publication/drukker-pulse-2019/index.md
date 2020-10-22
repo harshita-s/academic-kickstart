@@ -2,7 +2,7 @@
 title : "“Monitoring Sonographer Performance: The Perception Ultrasound by Learning Sonographer Experience (PULSE) study"
 date : 2019-04-01
 authors:
-- "Lior Drukker*"
+- "Lior Drukker"
 - "Richard Droste"
 - "Pierre Chatelain"
 - "__Harshita Sharma__"
