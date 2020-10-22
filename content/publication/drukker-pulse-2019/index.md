@@ -16,7 +16,7 @@ publication_types: ["1"]
 
 featured: false
 
-publication: "*In: Special Issue: Official Proceedings of the 2019 AIUM Convention, Journal of Ultrasound in Medicine, 38, S1–S214, 2019.*"
+publication: "*In: Special Issue: Official Proceedings of the 2019 AIUM Convention, Journal of Ultrasound in Medicine, 38, S1–S214, 2019*"
 
 tags:
 - Fetal ultrasound
