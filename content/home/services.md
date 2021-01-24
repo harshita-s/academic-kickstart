@@ -7,11 +7,11 @@ weight = 50  # Order that this section will appear.
 
 ## Journal Reviewer
 
-IEEE TPAMI, IEEE TMI, PLOS ONE, IEEE JBHI, IEEE RA-L, Elsevier’s CMIG, Elsevier’s AIIM, Elsevier’s CPMB, Ultrasonic Imaging, Springer’s IJCARS, MDPI J Imaging, MDPI Applied Science, Biomedical Optics Express.
+IEEE TPAMI, IEEE TMI, PLOS ONE, IEEE JBHI, IEEE RA-L, Elsevier’s CMIG, Elsevier’s AIIM, Elsevier’s CPMB, Ultrasonic Imaging, Springer’s IJCARS, MDPI J Imaging, MDPI Applied Science, Biomedical Optics Express,  International Journal of Imaging Systems and Technology (IMA).
 
 ## Conference Reviewer
 
-IEEE ISBI 2021, MICCAI-ASMUS 2020, MICCAI 2020, MIUA 2020, MIDL 2020, ISBI 2020, MICCAI 2019, MIDL 2019, IEEE ISBI 2019, IEEE ISBI 2018, BioRob 2018, **IEEE BIBE 2017 (Program Committee Member)**.
+IPMI 2021, IEEE ISBI 2021, MICCAI-ASMUS 2020, MICCAI 2020, MIUA 2020, MIDL 2020, ISBI 2020, MICCAI 2019, MIDL 2019, IEEE ISBI 2019, IEEE ISBI 2018, BioRob 2018, **IEEE BIBE 2017 (Program Committee Member)**.
 
 
 ## Memberships
