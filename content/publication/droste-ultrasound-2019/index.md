@@ -9,7 +9,7 @@ authors:
 - Aris T. Papageorghiou
 - J. Alison Noble
 
-date: " 2019-06-01"
+date: "2019-06-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
