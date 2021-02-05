@@ -19,14 +19,14 @@ abstract: "Ultrasound is a widely used imaging modality, yet it is well-known th
 
 tags:
 - Clinical workflow
-- fetal ultrasonography
-- ultrasound image analysis
-- video understanding
-- knowledge representation
-- skill assessment
-- spatio-temporal analysis
-- deep learning
-- convolutional neural networks
+- Fetal ultrasonography
+- Ultrasound image analysis
+- Video understanding
+- Knowledge representation
+- Skill assessment
+- Spatio-temporal analysis
+- Deep learning
+- Convolutional neural networks
 
 links:
 - name: DOI
@@ -51,6 +51,7 @@ links:
 @article{SHARMA2021101973,
 title = "Knowledge Representation and Learning of Operator Clinical Workflow from Full-length Routine Fetal Ultrasound Scan Videos",
 journal = "Medical Image Analysis",
+volume = "69",
 pages = "101973",
 year = "2021",
 issn = "1361-8415",
