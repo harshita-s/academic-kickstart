@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: __Postdoctoral Researcher • Image Scientist • Data Explorer • Engineer__
+role: __Postdoctoral Researcher • Biomedical Engineering • Medical Image Analysis • Machine Learning • Big Data__
 
 # Organizations/Affiliations
 organizations:
