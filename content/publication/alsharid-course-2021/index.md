@@ -15,7 +15,7 @@ abstract: "We propose a curriculum learning captioning method to caption fetal u
 
 featured: false
 
-publication: "(MA and RE contributed equally). *IEEE 18th International Symposium on Biomedical Imaging (ISBI) 2021*"
+publication: "(MA and RE contributed equally). _IEEE 18th International Symposium on Biomedical Imaging (ISBI) 2021_"
 
 tags: 
 - "Training"
