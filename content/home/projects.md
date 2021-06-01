@@ -8,6 +8,10 @@ weight = 70  # Order that this section will appear.
 
 {{< figure library="true" src="Collage.jpg" title="" lightbox="true" >}}
 
+* __April 2021__ | Harshita gave an invited talk *"Artificial Intelligence in Medical Imaging - Methods, Applications, and Challenges"* at __Microsoft Research India__.
+
+* __April 2021__ | Harshita presented her research paper *"Multi-modal Learning from Video, Eye Tracking, and Pupillometry for Operator Skill Characterization in Clinical Fetal Ultrasound"* as oral presentation in __IEEE ISBI 2021__.
+
 * __October 2020__ | Harshita presented a hot abstract in ultrasound imaging *"Task‐evoked pupillary response as an index of cognitive workload of sonologists undertaking fetal ultrasound"*, and equally contributed to the abstract *"The data science of obstetric ultrasound: automatic analysis of full‐length anomaly scans using machine learning algorithms"* at the ISUOG Virtual World Congress 2020. 
 
 * __October 2020__ | A co-authored paper from the PULSE project *"A Curriculum Learning Based Approach to Captioning Ultrasound Images"* is the __Best Presentation Winner__ at Advances in Simplifying Medical UltraSound-ASMUS 2020 Workshop at MICCAI 2020.
@@ -16,7 +20,7 @@ weight = 70  # Order that this section will appear.
 
 * __July 2019__ | A co-authored paper from the PULSE project *"Towards Capturing Sonographic Experience: Cognition-Inspired Ultrasound Video Saliency Prediction"* has won the __Best Paper Award__ at MIUA 2019.
 
-* __April 2019__ | Harshita presented her Postdoctoral research paper *"Spatio-temporal partitioning and description of full-length routine fetal anomaly ultrasound scans"* in __IEEE ISBI 2019__ at Venice, Italy.
+* __April 2019__ | Harshita presented her Postdoctoral research paper *"Spatio-temporal partitioning and description of full-length routine fetal anomaly ultrasound scans"* as an oral presentation in  __IEEE ISBI 2019__ at Venice, Italy.
 
 * __March 2018__ | Harshita presented her research at the __Oxbridge Women in Computer Science Conference 2018__ at Cambridge, UK.
 
