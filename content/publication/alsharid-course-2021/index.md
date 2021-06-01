@@ -2,8 +2,8 @@
 title: "A Course-Focused Dual Curriculum For Image Captioning"
 date: 2021-04-15
 authors: 
-- "Mohammad Alsharid"
-- "Rasheed El-Bouri"
+- "Mohammad Alsharid*"
+- "Rasheed El-Bouri*"
 - "__Harshita Sharma__"
 - "Lior Drukker"
 - "Aris T. Papageorghiou" 
@@ -15,7 +15,7 @@ abstract: "We propose a curriculum learning captioning method to caption fetal u
 
 featured: false
 
-publication: "(MA and RE contributed equally). _IEEE 18th International Symposium on Biomedical Imaging (ISBI) 2021_"
+publication: "(MA and RE contributed equally). *IEEE 18th International Symposium on Biomedical Imaging (ISBI) 2021*"
 
 tags: 
 - "Training"
@@ -46,7 +46,6 @@ tags:
   
 ---
 
----
  # BibTex
  
  ```
