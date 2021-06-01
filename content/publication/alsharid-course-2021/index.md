@@ -15,9 +15,9 @@ abstract: "We propose a curriculum learning captioning method to caption fetal u
 
 featured: false
 
-publication: "(MA and ReB contributed equally). *IEEE 18th International Symposium on Biomedical Imaging (ISBI) 2021*"
+publication: "(MA and RE contributed equally). *IEEE 18th International Symposium on Biomedical Imaging (ISBI) 2021*"
 
-tags:
+tags: 
 - "Training"
 - "Ultrasonic imaging"
 - "Ultrasonic variables measurement"
@@ -30,7 +30,7 @@ tags:
 - "image description"
 - "meta-learning"
   
-  links:
+  links: 
 - name: DOI
   url: https://doi.org/10.1109/ISBI48211.2021.9434055
   icon_pack: ai
