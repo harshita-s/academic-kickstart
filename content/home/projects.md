@@ -10,15 +10,15 @@ weight = 70  # Order that this section will appear.
 
 * __April 2021__ | Harshita gave an invited talk *"Artificial Intelligence in Medical Imaging - Methods, Applications, and Challenges"* at __Microsoft Research India__.
 
-* __April 2021__ | Harshita presented her research paper *"Multi-modal Learning from Video, Eye Tracking, and Pupillometry for Operator Skill Characterization in Clinical Fetal Ultrasound"* as oral presentation in __IEEE ISBI 2021__.
+* __April 2021__ | Harshita presented her research paper *"Multi-modal Learning from Video, Eye Tracking, and Pupillometry for Operator Skill Characterization in Clinical Fetal Ultrasound"* as oral presentation at __IEEE ISBI 2021__.
 
-* __October 2020__ | Harshita presented a hot abstract in ultrasound imaging *"Task‐evoked pupillary response as an index of cognitive workload of sonologists undertaking fetal ultrasound"*, and equally contributed to the abstract *"The data science of obstetric ultrasound: automatic analysis of full‐length anomaly scans using machine learning algorithms"* at the ISUOG Virtual World Congress 2020. 
+* __October 2020__ | Harshita presented a hot abstract in ultrasound imaging *"Task‐evoked pupillary response as an index of cognitive workload of sonologists undertaking fetal ultrasound"*, and equally contributed to the abstract *"The data science of obstetric ultrasound: automatic analysis of full‐length anomaly scans using machine learning algorithms"* at the __ISUOG Virtual World Congress 2020__. 
 
-* __October 2020__ | A co-authored paper from the PULSE project *"A Curriculum Learning Based Approach to Captioning Ultrasound Images"* is the __Best Presentation Winner__ at Advances in Simplifying Medical UltraSound-ASMUS 2020 Workshop at MICCAI 2020.
+* __October 2020__ | A co-authored paper from the PULSE project *"A Curriculum Learning Based Approach to Captioning Ultrasound Images"* is the __Best Presentation Winner__ at Advances in Simplifying Medical UltraSound-ASMUS 2020 Workshop at __MICCAI 2020__.
 
-* __April 2020__ | A co-authored paper from the PULSE project *"Discovering Salient Anatomical Landmarks by Predicting Human Gaze"* has won the __2nd runner up for Best Paper Award__ at ISBI 2020. News items can be found [here](http://www.ibme.ox.ac.uk/news-events/news/dphil-student-gains-2nd-place-in-ieee-isbi-2020-best-paper-award) and [here](https://eng.ox.ac.uk/news/dphil-student-gains-2nd-place-in-ieee-isbi-2020-best-paper-award/).
+* __April 2020__ | A co-authored paper from the PULSE project *"Discovering Salient Anatomical Landmarks by Predicting Human Gaze"* has won the __2nd runner up for Best Paper Award__ at __ISBI 2020__. News items can be found [here](http://www.ibme.ox.ac.uk/news-events/news/dphil-student-gains-2nd-place-in-ieee-isbi-2020-best-paper-award) and [here](https://eng.ox.ac.uk/news/dphil-student-gains-2nd-place-in-ieee-isbi-2020-best-paper-award/).
 
-* __July 2019__ | A co-authored paper from the PULSE project *"Towards Capturing Sonographic Experience: Cognition-Inspired Ultrasound Video Saliency Prediction"* has won the __Best Paper Award__ at MIUA 2019.
+* __July 2019__ | A co-authored paper from the PULSE project *"Towards Capturing Sonographic Experience: Cognition-Inspired Ultrasound Video Saliency Prediction"* has won the __Best Paper Award__ at __MIUA 2019__.
 
 * __April 2019__ | Harshita presented her Postdoctoral research paper *"Spatio-temporal partitioning and description of full-length routine fetal anomaly ultrasound scans"* as an oral presentation in  __IEEE ISBI 2019__ at Venice, Italy.
 
