@@ -1,6 +1,8 @@
 ---
 title: "A Course-Focused Dual Curriculum For Image Captioning"
+
 date: 2021-04-15
+
 authors: 
 - "Mohammad Alsharid*"
 - "Rasheed El-Bouri*"
@@ -29,8 +31,8 @@ tags:
 - "fetal ultrasound"
 - "image description"
 - "meta-learning"
-  
-  links: 
+
+links: 
 - name: DOI
   url: https://doi.org/10.1109/ISBI48211.2021.9434055
   icon_pack: ai
