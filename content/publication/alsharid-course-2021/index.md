@@ -1,13 +1,13 @@
 ---
 title: "A Course-Focused Dual Curriculum For Image Captioning"
-date: 2018-04-15
+date: 2021-04-15
 authors: 
 - "Mohammad Alsharid*"
 - "Rasheed El-Bouri*"
 - "__Harshita Sharma__"
 - "Lior Drukker"
 - "Aris T. Papageorghiou" 
-- "J.Alison Noble"
+- "J. Alison Noble"
 
 publication_types: ["1"]
 
