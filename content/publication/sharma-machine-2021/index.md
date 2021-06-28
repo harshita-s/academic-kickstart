@@ -56,14 +56,15 @@ links:
 
 ```
 @article{SHARMA2021104589,
-title = {Machine Learning-based Analysis of Operator Pupillary Response to Assess Cognitive Workload in Clinical Ultrasound Imaging},
+title = {Machine learning-based analysis of operator pupillary response to assess cognitive workload in clinical ultrasound imaging},
 journal = {Computers in Biology and Medicine},
+volume = {135},
 pages = {104589},
 year = {2021},
 issn = {0010-4825},
 doi = {https://doi.org/10.1016/j.compbiomed.2021.104589},
 url = {https://www.sciencedirect.com/science/article/pii/S0010482521003838},
-author = {Harshita Sharma and Lior Drukker and Aris T. Papageorghiou and J. Alison Noble}
+author = {Harshita Sharma and Lior Drukker and Aris T. Papageorghiou and J. Alison Noble},
 }
 ```
 ---
