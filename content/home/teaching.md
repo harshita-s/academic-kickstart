@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   company_url = "http://www.ox.ac.uk"
   location = "Oxford, United Kingdom"
   date_start = "2018-10-01"
-  date_end = ""
+  date_end = "2020-09-30"
   description = """
 * Received [SEDA PDF Supporting Learning Award](https://www.seda.ac.uk/supporting-learning), *a portable accredited qualification in Higher Education teaching. The award is aligned to the UK Professional Standards Framework (UKPSF) for Teaching and Supporting Learning in Higher Education, at Descriptor 1*.
 * Lead Tutor with tutorials and exam setting in B-13 paper Circuits and Communications.
