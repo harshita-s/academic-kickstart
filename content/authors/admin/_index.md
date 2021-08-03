@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: __Postdoctoral Researcher • Biomedical Engineering • Medical Image Analysis • Machine Learning • Big Data__
+role: __Researcher • Medical Image Analysis • Machine Learning • Artificial Intelligence • Multimodal Data • Biomedical Engineering__
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
-  url: "https://eng.ox.ac.uk/people/harshita-sharma/"
+- name: Microsoft
+  url: "https://www.microsoft.com/en-us/research/project/medical-image-analysis/#!people"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoctoral researcher working in biomedical image analysis. My research interests include biomedical image analysis, artificial intelligence and machine learning, big data science, image and signal processing applied to medicine and healthcare.
+bio: I am a researcher working in biomedical image analysis. My research interests include biomedical image analysis, artificial intelligence and machine learning, big data science, image and signal processing applied to medicine and healthcare.
 
 interests:
 - Biomedical Image Analysis
@@ -89,7 +89,9 @@ social:
 # - Researchers
 # - Visitors
 ---
-Dr. Harshita Sharma is a PostDoc in the [Department of Engineering Science](https://www.eng.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), and a member of the [Biomedical Image Analysis (BioMedIA) group](http://www.ibme.ox.ac.uk/research/biomedia), advised by [Prof. Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble). She is working in the interdisciplinary [ERC Project PULSE](https://www.eng.ox.ac.uk/pulse/) (Perception Ultrasound by Learning Sonographic Experience) with the aim to develop multi-modal analysis methods to model sonographic experience to make obstetric ultrasound imaging easier for non-specialists. Harshita's research interests include artificial intelligence and machine learning, NLP, big data science, image and signal analysis applied to medicine and healthcare.  
+Dr. Harshita Sharma is a Researcher in [Health Intelligence, Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/theme/health-intelligence/). She is working in [Project InnerEye](https://www.microsoft.com/en-us/research/project/medical-image-analysis/), where she explores machine learning solutions aimed to improve patient outcomes and transform healthcare pathways. Harshita's research interests include machine learning, image analysis, computer vision, NLP, and multimodal analysis in healthcare.
+
+Until June 2021, Harshita worked as a PostDoc in the [Department of Engineering Science](https://www.eng.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), and was a member of the [Biomedical Image Analysis (BioMedIA) group](http://www.ibme.ox.ac.uk/research/biomedia), advised by [Prof. Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble). She worked in the interdisciplinary [ERC Project PULSE](https://www.eng.ox.ac.uk/pulse/) (Perception Ultrasound by Learning Sonographic Experience) with the aim to develop multi-modal analysis methods to model sonographic experience and make obstetric ultrasound imaging easier for non-specialists.  
 
 In 2017, Harshita obtained her Ph.D. (Dr.-Ing.) in Computer Vision from [Technische Universität Berlin](https://www.tu-berlin.de/menue/home/) advised by [Prof. Olaf Hellwich](https://www.cv.tu-berlin.de/menue/mitarbeiter/olaf_hellwich/), after being awarded a full-time DAAD Ph.D. Scholarship (2013-17). She was a member of the [Computer Vision and Remote Sensing group (CVRS)](https://www.cv.tu-berlin.de/menue/computer_vision_remote_sensing/) at TU Berlin. She collaborated with [Charité University Hospital](https://www.charite.de/en/), [VMScope GmbH Berlin](http://vmscope.com/index.php?id=4), and [University Hospital Schleswig-Holstein](https://www.uksh.de/). She analysed histopathological whole slide images of gastric carcinoma to develop methods in computational pathology for automatic cancer grade classification, necrosis detection and cell nuclei classification.
 
