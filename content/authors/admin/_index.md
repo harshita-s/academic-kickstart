@@ -15,7 +15,7 @@ role: __Researcher • Medical Image Analysis • Machine Learning • Artificia
 # Organizations/Affiliations
 organizations:
 - name: Microsoft
-  url: "https://www.microsoft.com/en-us/research/project/medical-image-analysis/#!people"
+  url: "https://www.microsoft.com/en-us/research/people/t-hsharma/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a researcher working in biomedical image analysis. My research interests include biomedical image analysis, artificial intelligence and machine learning, big data science, image and signal processing applied to medicine and healthcare.
