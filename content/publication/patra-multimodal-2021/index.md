@@ -5,7 +5,7 @@ authors:
 - Arijit Patra
 - Yifan Cai
 - Pierre Chatelain
-- __Harshita Sharma_
+- __Harshita Sharma__
 - Lior Drukker
 - Aris T Papageorghiou
 - J Alison Noble
