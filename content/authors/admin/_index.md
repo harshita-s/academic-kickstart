@@ -21,11 +21,12 @@ organizations:
 bio: I am a senior machine learning research scientist in medical imaging for healthcare. My research interests include machine learning, biomedical image analysis, big data science, image and signal processing, and multimodal data applied to medicine and healthcare.
 
 interests:
-- Machine Learning 
+- Machine Learning
+- Biomedical Image Analysis 
 - Medical Imaging (Histopathology, Ultrasound, Radiology)
-- Biomedical Image Analysis
+- Computer Vision
 - Multimodal Data Analysis
-- Big Data Science
+- Big Data
 - Image and Signal Processing
 - Information Retrieval
   
@@ -89,7 +90,7 @@ social:
 # - Researchers
 # - Visitors
 ---
-Dr. Harshita Sharma is a Senior ML Researcher in [Health Intelligence, Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/theme/health-intelligence/). She is working in [Medical Imaging](https://www.microsoft.com/en-us/research/project/medical-image-analysis/), where she explores machine learning solutions aimed to improve patient outcomes and transform healthcare pathways. Harshita's research interests include machine learning, image analysis, computer vision, and multimodal analysis in healthcare.
+Dr. Harshita Sharma is a Senior ML Researcher in [Health Intelligence, Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/theme/health-intelligence/). She works in the [Medical Imaging team](https://www.microsoft.com/en-us/research/project/medical-image-analysis/), where she explores machine learning solutions aimed towards improving patient outcomes and clinical workflows. Harshita's research interests include machine learning, image analysis, computer vision, and multimodal clinical data analysis for healthcare.
 
 Until June 2021, Harshita worked as a PostDoc in the [Department of Engineering Science](https://www.eng.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), and was a member of the [Biomedical Image Analysis (BioMedIA) group](http://www.ibme.ox.ac.uk/research/biomedia), advised by [Prof. Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble). She worked in the interdisciplinary [ERC Project PULSE](https://www.eng.ox.ac.uk/pulse/) (Perception Ultrasound by Learning Sonographic Experience) with the aim to develop multi-modal analysis methods to model sonographic experience and make obstetric ultrasound imaging easier for non-specialists.  
 
