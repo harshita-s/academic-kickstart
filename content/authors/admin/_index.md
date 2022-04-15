@@ -10,22 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: __Researcher • Medical Image Analysis • Machine Learning • Artificial Intelligence • Multimodal Data • Biomedical Engineering__
+role: __Senior Researcher • Medical Image Analysis • Machine Learning • Artificial Intelligence • Multimodal Data • Biomedical Engineering__
 
 # Organizations/Affiliations
 organizations:
 - name: Microsoft
-  url: "https://www.microsoft.com/en-us/research/people/t-hsharma/"
+  url: "https://www.microsoft.com/en-us/research/people/harssharma/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a researcher working in biomedical image analysis. My research interests include biomedical image analysis, artificial intelligence and machine learning, big data science, image and signal processing applied to medicine and healthcare.
+bio: I am a senior machine learning research scientist in medical imaging for healthcare. My research interests include machine learning, biomedical image analysis, big data science, image and signal processing, and multimodal data applied to medicine and healthcare.
 
 interests:
+- Machine Learning 
+- Medical Imaging (Histopathology, Ultrasound, Radiology)
 - Biomedical Image Analysis
-- Artificial Intelligence and Machine Learning 
-- Medical Imaging (Ultrasound, Histopathology, Radiology)
+- Multimodal Data Analysis
 - Big Data Science
-- Multi-modal Data Analysis
 - Image and Signal Processing
 - Information Retrieval
   
@@ -89,7 +89,7 @@ social:
 # - Researchers
 # - Visitors
 ---
-Dr. Harshita Sharma is a Researcher in [Health Intelligence, Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/theme/health-intelligence/). She is working in [Project InnerEye](https://www.microsoft.com/en-us/research/project/medical-image-analysis/), where she explores machine learning solutions aimed to improve patient outcomes and transform healthcare pathways. Harshita's research interests include machine learning, image analysis, computer vision, NLP, and multimodal analysis in healthcare.
+Dr. Harshita Sharma is a Senior ML Researcher in [Health Intelligence, Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/theme/health-intelligence/). She is working in [Medical Imaging](https://www.microsoft.com/en-us/research/project/medical-image-analysis/), where she explores machine learning solutions aimed to improve patient outcomes and transform healthcare pathways. Harshita's research interests include machine learning, image analysis, computer vision, and multimodal analysis in healthcare.
 
 Until June 2021, Harshita worked as a PostDoc in the [Department of Engineering Science](https://www.eng.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), and was a member of the [Biomedical Image Analysis (BioMedIA) group](http://www.ibme.ox.ac.uk/research/biomedia), advised by [Prof. Alison Noble](http://www.ibme.ox.ac.uk/research/biomedia/people/professor-alison-noble). She worked in the interdisciplinary [ERC Project PULSE](https://www.eng.ox.ac.uk/pulse/) (Perception Ultrasound by Learning Sonographic Experience) with the aim to develop multi-modal analysis methods to model sonographic experience and make obstetric ultrasound imaging easier for non-specialists.  
 
