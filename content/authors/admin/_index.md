@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: __Senior Researcher • Medical Image Analysis • Machine Learning • Artificial Intelligence • Multimodal Data • Biomedical Engineering__
+role: __Senior Researcher • Machine Learning and Artificial Intelligence • Medical Image Analysis • Computer Vision • Multimodal Data • Biomedical Engineering__
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
 bio: I am a senior machine learning research scientist in medical imaging for healthcare. My research interests include machine learning, biomedical image analysis, big data science, image and signal processing, and multimodal data applied to medicine and healthcare.
 
 interests:
-- Machine Learning
+- Machine Learning and AI
 - Biomedical Image Analysis 
 - Medical Imaging (Histopathology, Ultrasound, Radiology)
 - Computer Vision
