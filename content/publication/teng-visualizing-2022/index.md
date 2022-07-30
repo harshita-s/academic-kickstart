@@ -10,8 +10,6 @@ authors:
 
 publication_types: ["1"]
 
-abstract: "Visualising patterns in clinicians' eye movements while interpreting fetal ultrasound imaging videos is challenging. Across and within videos, there are differences in size and position of Areas-of-Interest (AOIs) due to fetal position, movement and sonographer skill. Currently, AOIs are manually labelled or identified using eye-tracker manufacturer specifications which are not study specific. We propose using unsupervised clustering to identify meaningful AOIs and bi-contour plots to visualise spatio-temporal gaze characteristics. We use Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN) to identify the AOIs, and use their corresponding images to capture granular changes within each AOI. Then we visualise transitions within and between AOIs as read by the sonographer. We compare our method to a standardised eye-tracking manufacturer algorithm. Our method captures granular changes in gaze characteristics which are otherwise not shown. Our method is suitable for exploratory data analysis of eye-tracking data involving multiple participants and AOIs."
-
 featured: false
 
 publication: *Symposium on Eye Tracking Research and Applications (ETRA) 2022.*
