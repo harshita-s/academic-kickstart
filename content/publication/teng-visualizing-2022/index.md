@@ -1,24 +1,6 @@
 ---
 title: "Visualising Spatio-Temporal Gaze Characteristics for Exploratory Data Analysis in Clinical Fetal Ultrasound Scans"
-date: 2022-06-08
-authors:
-- Clare Teng
-- __Harshita Sharma__
-- Lior Drukker
-- Aris T. Papageorghiou
-- J. Alison Noble
 
-publication_types: ["1"]
-
-featured: false
-
-publication: *Symposium on Eye Tracking Research and Applications (ETRA) 2022.*
-
-tags:
-- Eye tracking
-- Unsupervised clustering
-- Spatio-temporal gaze
-- Fetal ultrasound
 
 links:
 - name: DOI
