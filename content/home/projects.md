@@ -12,7 +12,7 @@ weight = 70  # Order that this section will appear.
 
 * __March 2022__ | Harshita was invited for a *Pathbreakers* interview at __The Interview Portal__. Read full interview [here](https://theinterviewportal.com/2022/05/22/biomedical-imaging-professional-interview-3/).
 
-* __July 2021__ | Harshita attended and chaired a session at the __Medical Image Understanding and Analysis (MIUA) 2022__ conference.
+* __July 2021__ | Harshita attended and chaired a session at the __Medical Image Understanding and Analysis (MIUA) 2021__ conference.
 
 * __April 2021__ | Harshita gave an invited talk *"Artificial Intelligence in Medical Imaging - Methods, Applications, and Challenges"* at __Microsoft Research India__.
 
