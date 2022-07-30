@@ -8,6 +8,12 @@ weight = 70  # Order that this section will appear.
 
 {{< figure library="true" src="Collage.jpg" title="" lightbox="true" >}}
 
+* __July 2022__ | Harshita attended the __Medical Image Understanding and Analysis (MIUA) 2022__ conference held at Cambridge, United Kingdom. 
+
+* __March 2022__ | Harshita was invited for a *Pathbreakers* interview at __The Interview Portal__. Read full interview [here](https://theinterviewportal.com/2022/05/22/biomedical-imaging-professional-interview-3/).
+
+* __July 2021__ | Harshita attended and chaired a session at the __Medical Image Understanding and Analysis (MIUA) 2022__ conference.
+
 * __April 2021__ | Harshita gave an invited talk *"Artificial Intelligence in Medical Imaging - Methods, Applications, and Challenges"* at __Microsoft Research India__.
 
 * __April 2021__ | Harshita presented her research paper *"Multi-modal Learning from Video, Eye Tracking, and Pupillometry for Operator Skill Characterization in Clinical Fetal Ultrasound"* as oral presentation at __IEEE ISBI 2021__.
