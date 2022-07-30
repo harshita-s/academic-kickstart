@@ -8,7 +8,7 @@ authors:
 - J. Alison Noble
 - Aris T. Papageorghiou
 
-publication_types. ["2"]
+publication_types: ["2"]
 
 featured: false
 
