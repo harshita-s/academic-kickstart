@@ -4,7 +4,7 @@ date: 2022-06-21
 authors:
 - "Lior Drukker*"
 - "__Harshita Sharma__*"
-- "J. N. Karim
+- "J. N. Karim"
 - "Richard Droste"
 - "J. Alison Noble"
 - "Aris T. Papageorghiou"
