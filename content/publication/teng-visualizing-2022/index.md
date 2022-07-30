@@ -1,6 +1,14 @@
 ---
 title: "Visualising Spatio-Temporal Gaze Characteristics for Exploratory Data Analysis in Clinical Fetal Ultrasound Scans"
 
+date: 2022-06-08
+authors:
+- Clare Teng
+- __Harshita Sharma__
+- Lior Drukker
+- Aris T. Papageorghiou
+- J. Alison Noble
+
 
 links:
 - name: DOI
