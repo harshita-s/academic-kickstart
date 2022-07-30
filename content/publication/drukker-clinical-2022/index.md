@@ -1,6 +1,6 @@
 ---
-title : "Clinical workflow of sonographers performing fetal anomaly ultrasound scans: deep learning-based analysis"
-date : 2022-06-21
+title: "Clinical workflow of sonographers performing fetal anomaly ultrasound scans: deep learning-based analysis"
+date: 2022-06-21
 authors:
 - "Lior Drukker*"
 - "__Harshita Sharma__*"
