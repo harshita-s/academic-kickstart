@@ -11,7 +11,7 @@ IEEE TPAMI, IEEE TMI, Nature Comms, PLOS ONE, IEEE JBHI, IEEE RA-L, IEEE Access,
 
 ## Conference Reviewer
 
-ISBI 2022, MICCAI-ASMUS 2021 (**Programme Committee Member**), MIUA 2021 (**Session Chair**), MICCAI 2021, ETRA 2021, IPMI 2021, IEEE ISBI 2021, **ECDP 2021 (Scientific Committee Member and Moderator)**, MICCAI-ASMUS 2020, MICCAI 2020, MIUA 2020, MIDL 2020, ISBI 2020, MICCAI 2019, MIDL 2019, IEEE ISBI 2019, IEEE ISBI 2018, BioRob 2018, **IEEE BIBE 2017 (Programme Committee Member)**.
+MICCAI 2022, ISBI 2022, MICCAI-ASMUS 2021 (**Programme Committee Member**), MIUA 2021 (**Session Chair**), MICCAI 2021, ETRA 2021, IPMI 2021, IEEE ISBI 2021, **ECDP 2021 (Scientific Committee Member and Moderator)**, MICCAI-ASMUS 2020, MICCAI 2020, MIUA 2020, MIDL 2020, ISBI 2020, MICCAI 2019, MIDL 2019, IEEE ISBI 2019, IEEE ISBI 2018, BioRob 2018, **IEEE BIBE 2017 (Programme Committee Member)**.
 
 
 ## Memberships
