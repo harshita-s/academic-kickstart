@@ -15,7 +15,7 @@ abstract: "Visualising patterns in clinicians' eye movements while interpreting 
 
 featured: false
 
-publication: "*Symposium on Eye Tracking Research and Applications (ETRA) 2022.*"
+publication: "*Symposium on Eye Tracking Research and Applications (ETRA) 2022*"
 
 tags:
 - Eye tracking
