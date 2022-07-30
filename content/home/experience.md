@@ -18,15 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+title = "Senior Researcher"
+  company = "Microsoft"
+  company_url = "http://www.microsoft.com"
+  location = "Cambridge, United Kingdom"
+  date_start = "2022-04-04"
+  date_end = ""
+  description = """
+  * Exploring **machine learning and image analysis solutions** aimed to improve patient outcomes and transform clinical workflows in healthcare.
+ """
+[[experience]]
  title = "Researcher"
   company = "Microsoft"
   company_url = "http://www.microsoft.com"
   location = "Cambridge, United Kingdom"
   date_start = "2021-08-02"
-  date_end = ""
+  date_end = "2022-03-31"
   description = """
-  * Exploring **machine learning and image analysis solutions** aimed to improve patient outcomes and transform healthcare pathways.
+  * Explored **machine learning and image analysis solutions** aimed to improve patient outcomes and transform clinical workflows in healthcare.
  """
+[[experience]]
+  title = "Visiting Researcher"
+  company = "University of Oxford"
+  company_url = "http://www.ox.ac.uk"
+  location = "Oxford, United Kingdom"
+  date_start = "2021-08-01"
+  date_end = "2021-12-31"
 [[experience]]
   title = "Postdoctoral Researcher"
   company = "University of Oxford"
