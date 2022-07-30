@@ -35,7 +35,7 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/teng-visualising-2022/#bibtex
+  url: publication/teng-visualizing-2022/#bibtex
   
 ---
 
