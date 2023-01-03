@@ -1,5 +1,5 @@
 ---
-title: "A Machine Learning Method for Automated Description and Workflow Analysis of First Trimester Ultrasound Scans."
+title: "A Machine Learning Method for Automated Description and Workflow Analysis of First Trimester Ultrasound Scans"
 date: 2022-12-01
 authors:
 - Robail Yasrab
@@ -46,7 +46,15 @@ links:
 # BibTex
 
 ```
-@article{
+@article{yasraba2022,
+  author={Yasrab, Robail and Fu, Zeyu and Zhao, He and Lee, Lok Hin and Sharma, Harshita and Drukker, Lior and Papageorgiou, Aris T and Alison Noble, J.},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={A Machine Learning Method for Automated Description and Workflow Analysis of First Trimester Ultrasound Scans.}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TMI.2022.3226274}
 }
 ```
 ---
