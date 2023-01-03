@@ -7,7 +7,7 @@ weight = 50  # Order that this section will appear.
 
 ## Journal Reviewer
 
-IEEE TPAMI, IEEE TMI - **Distinguished Reviewer-Bronze**, Nature Comms, PLOS ONE, IEEE JBHI, IEEE RA-L, IEEE Access, CMIG (Elsevier), AIIM (Elsevier), CPMB (Elsevier), IJCARS (Springer), PeerJ, Ultrasonic Imaging, Journal of Pathology, MDPI J Imaging, MDPI Applied Science, Biomedical Optics Express, International Journal of Imaging Systems and Technology (IMA)-**Editorial Board Member**, Oxford Initiatives.
+IEEE TPAMI, IEEE TMI - **Distinguished Reviewer Bronze**, Nature Comms, PLOS ONE, IEEE JBHI, IEEE RA-L, IEEE Access, CMIG (Elsevier), AIIM (Elsevier), CPMB (Elsevier), IJCARS (Springer), PeerJ, Ultrasonic Imaging, Journal of Pathology, MDPI J Imaging, MDPI Applied Science, Biomedical Optics Express, International Journal of Imaging Systems and Technology (IMA)-**Editorial Board Member**, Oxford Initiatives.
 
 ## Conference Reviewer
 
