@@ -16,6 +16,6 @@ MIDL 2023, IPMI 2023, ISBI 2023, MICCAI 2022 (**Networking Session Panelist**), 
 
 ## Memberships
 
-UKRI ECR Forum, International Society of Ultrasound in Obstetrics and Gynecology (ISUOG), **ESDIP Scientific Committee Member**, [TU Berlin-Alumni Network (International Contact- GB)](https://www.alumni.tu-berlin.de/en/alumni-commitment/international-alumni-contacts/great-britain/) and Manager of the [LinkedIn TU Berlin Alumni Club UK](https://www.linkedin.com/groups/13716197/), MedIAN-Medical Image Analysis Network, Lindau Alumni Network, Heidelberg Laureate Forum - Alumni Network, DAAD Alumni Network, Durtti-The Artificial Intelligence Group, Cancer Epigenetics Society, Science Advisory Board
+Associate Alumni at the University of Oxford, Future Medicine AI Editorial Board Member, UKRI ECR Forum, International Society of Ultrasound in Obstetrics and Gynecology (ISUOG), **ESDIP Scientific Committee Member**, [TU Berlin-Alumni Network (International Contact- GB)](https://www.alumni.tu-berlin.de/en/alumni-commitment/international-alumni-contacts/great-britain/) and Manager of the [LinkedIn TU Berlin Alumni Club UK](https://www.linkedin.com/groups/13716197/), MedIAN-Medical Image Analysis Network, Lindau Alumni Network, Heidelberg Laureate Forum - Alumni Network, DAAD Alumni Network, Durtti-The Artificial Intelligence Group, Cancer Epigenetics Society, Science Advisory Board
 
 
