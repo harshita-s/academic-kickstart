@@ -34,7 +34,7 @@ links:
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
-  url: publication/alsharid-b-2022/#bibtex 
+  url: publication/alsharid_b_2022/#bibtex 
 ---
 
 ---
