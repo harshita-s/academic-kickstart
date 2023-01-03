@@ -7,6 +7,8 @@ weight = 70  # Order that this section will appear.
 +++
 
 {{< figure library="true" src="Collage.jpg" title="" lightbox="true" >}}
+ 
+* __October 2022__ | Harshita was an industry panelist at the networking session at __MICCAI 2022__.
 
 * __July 2022__ | Harshita attended the __Medical Image Understanding and Analysis (MIUA) 2022__ conference held at Cambridge, United Kingdom. 
 
