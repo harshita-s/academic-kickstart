@@ -8,6 +8,8 @@ weight = 70  # Order that this section will appear.
 
 {{< figure library="true" src="Collage.jpg" title="" lightbox="true" >}}
  
+* __May 2023__ | Harshita wrote an article in the __Future Medicine AI Hub__. Read full article [here](https://www.fmai-hub.com/implementing-ai-and-ml-in-medical-imaging/?utm_content=247289977&utm_medium=social&utm_source=twitter&hss_channel=tw-1509425247057068036). Social media posts: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7061656049673457664/), [Twitter](https://twitter.com/FutMedicineAI/status/1655890355508719619).
+
 * __October 2022__ | Harshita was an industry panelist at the networking session at __MICCAI 2022__.
 
 * __July 2022__ | Harshita attended the __Medical Image Understanding and Analysis (MIUA) 2022__ conference held at Cambridge, United Kingdom. 
