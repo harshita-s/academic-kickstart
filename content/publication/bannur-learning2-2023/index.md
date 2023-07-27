@@ -1,6 +1,6 @@
 ---
 title: "Learning to exploit temporal structure for biomedical vision-language processing"
-date: 2023-05-01
+date: 2023-06-01
 authors:
 - Shruthi Bannur
 - Stephanie Hyland
