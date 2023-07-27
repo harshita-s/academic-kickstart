@@ -9,7 +9,7 @@ authors:
 - Max Ilse
 - Daniel Coelho de Castro
 - Benedikt Boecking
-- Harshita Sharma
+- __Harshita Sharma__
 - Kenza Bouzid
 - Anton Schwaighofer
 - Maria Teodora Wetscherek
