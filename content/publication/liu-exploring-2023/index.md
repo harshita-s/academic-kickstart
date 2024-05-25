@@ -42,6 +42,10 @@ links:
   url: https://doi.org/10.18653/v1/2023.emnlp-main.891
   icon_pack: ai
   icon: doi
+- name: arXiv
+  url: https://arxiv.org/abs/2310.14573
+  icon_pack: ai
+  icon: arxiv
 - name: BibTeX
   icon_pack: fas
   icon: quote-right
