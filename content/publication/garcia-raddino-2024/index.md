@@ -3,7 +3,7 @@ title: "RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervis
 date: 2024-01-19
 authors:
 - Fernando Pérez-García*
-- __Harshita Sharma*__
+- __Harshita Sharma__*
 - Sam Bond-Taylor*
 - Kenza Bouzid
 - Valentina Salvatelli
