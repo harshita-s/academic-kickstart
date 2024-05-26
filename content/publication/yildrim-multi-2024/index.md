@@ -1,5 +1,5 @@
 ---
-title: Multimodal healthcare AI: identifying and designing clinically relevant vision-language applications for radiology"
+title: "Multimodal healthcare AI: identifying and designing clinically relevant vision-language applications for radiology"
 date: 2024-05-08
 authors:
 - Nur Yildirim
