@@ -2,9 +2,9 @@
 title: "Exploring scalable medical image encoders beyond text supervision"
 date: 2025-01-13
 authors:
-- Fernando Pérez-García
-- __Harshita Sharma__
-- Sam Bond-Taylor
+- Fernando Pérez-García*
+- __Harshita Sharma*__
+- Sam Bond-Taylor*
 - Kenza Bouzid
 - Valentina Salvatelli
 - Maximilian Ilse
