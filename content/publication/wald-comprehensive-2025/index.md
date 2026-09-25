@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Language-Image Pre-training for 3D Medical Image Understanding"
-date: 2025-10-16
+date: 2026-09-17
 authors:
 - Tassilo Wald
 - Ibrahim Ethem Hamamci
