@@ -40,7 +40,7 @@ links:
   icon_pack: fas
   icon: file-pdf
 - name: Code
-  url: https://github.com/jonghakmoon/Lunguage
+  url: https://github.com/SuperSupermoon/Lunguage
   icon_pack: fab
   icon: github
 - name: BibTeX
